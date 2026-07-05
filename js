@@ -1,0 +1,1 @@
+Contains the 6 category-specific JavaScript data objects exported from the SQLite database. Each file acts as an independent data layer supplying the geographic coordinates and metadata for a specific type of astronomical observatory on the interactive map.
