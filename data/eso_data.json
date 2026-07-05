@@ -1,0 +1,4314 @@
+[
+    [
+        "Ice Cube Neutrino N Observatory",
+        null,
+        -2452,
+        "Modern Astronomical Observatory",
+        0,
+        -90
+    ],
+    [
+        "Córdoba Astronomical Observatory Córdoba",
+        null,
+        434,
+        "Modern Astronomical Observatory",
+        -64.1966666666667,
+        -31.4216666666667
+    ],
+    [
+        "La Plata Astronomical Observatory La Plata",
+        null,
+        17,
+        "Modern Astronomical Observatory",
+        -57.9316666666667,
+        -34.9083333333333
+    ],
+    [
+        "Vienna University Observatory Vienna",
+        null,
+        241,
+        "Modern Astronomical Observatory",
+        16.3366666666667,
+        48.2316666666667
+    ],
+    [
+        "Metsähovi Observatory Kirkkonummi",
+        null,
+        60,
+        "Modern Astronomical Observatory",
+        24.3966666666667,
+        60.22
+    ],
+    [
+        "Besançon Observatory Besançon",
+        null,
+        312,
+        "Modern Astronomical Observatory",
+        5.98666666666667,
+        47.25
+    ],
+    [
+        "Capodimonte Astronomical Observatory Naples",
+        null,
+        150,
+        "Modern Astronomical Observatory",
+        14.255,
+        40.8633333333333
+    ],
+    [
+        "Daeduk Radio Astronomical Observatory R Taejeon",
+        "Radio",
+        120,
+        "Modern Astronomical Observatory",
+        127.371666666667,
+        36.3983333333333
+    ],
+    [
+        "Leiden Observatory Current",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        4.458132,
+        52.168707
+    ],
+    [
+        "Sayan Mtns. Radiophys. Observatory Sayan Mountains",
+        null,
+        832,
+        "Modern Astronomical Observatory",
+        102.208333333333,
+        51.7583333333333
+    ],
+    [
+        "Skalnaté Pleso Observatory Poprad",
+        null,
+        1783,
+        "Modern Astronomical Observatory",
+        20.245,
+        49.1883333333333
+    ],
+    [
+        "Istanbul University Observatory Istanbul",
+        null,
+        65,
+        "Modern Astronomical Observatory",
+        28.965,
+        41.0116666666667
+    ],
+    [
+        "Lvov University Observatory Lvov",
+        null,
+        330,
+        "Modern Astronomical Observatory",
+        24.03,
+        49.8333333333333
+    ],
+    [
+        "University of London Observatory Mill Hill, England",
+        null,
+        81,
+        "Modern Astronomical Observatory",
+        -0.24,
+        51.6133333333333
+    ],
+    [
+        "Palomar Observatory Palomar Mtn.",
+        null,
+        1706,
+        "Modern Astronomical Observatory",
+        -116.863333333333,
+        33.3566666666667
+    ],
+    [
+        "International Latitude Observatory Gaithersburg",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -77.1994444444445,
+        39.1372222222222
+    ],
+    [
+        "Sagamore Hill Radio Observatory R Hamilton",
+        "Radio",
+        53,
+        "Modern Astronomical Observatory",
+        -70.8216666666667,
+        42.6316666666667
+    ],
+    [
+        "Apache Point Observatory Sunspot",
+        null,
+        2781,
+        "Modern Astronomical Observatory",
+        -105.82,
+        32.78
+    ],
+    [
+        "L. Figl Astrophysical Observatory St. Corona at Schöpfl",
+        null,
+        890,
+        "Modern Astronomical Observatory",
+        15.9233333333333,
+        48.0833333333333
+    ],
+    [
+        "Astronomical and Astrophys. Institute Brussels",
+        null,
+        147,
+        "Modern Astronomical Observatory",
+        4.38333333333333,
+        50.8133333333333
+    ],
+    [
+        "Pico dos Dias Observatory Itajubá/Pico dos Dias",
+        null,
+        1870,
+        "Modern Astronomical Observatory",
+        -45.5833333333333,
+        -22.535
+    ],
+    [
+        "Rozhen National Astronomical Observatory Rozhen",
+        null,
+        1759,
+        "Modern Astronomical Observatory",
+        24.7433333333333,
+        41.6933333333333
+    ],
+    [
+        "Wilhelm Struve Astrophys. Observatory Tartu",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        26.4666666666667,
+        58.2666666666667
+    ],
+    [
+        "Nyrolan",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        25.513056,
+        62.342222
+    ],
+    [
+        "Göttingen University Observatory Göttingen",
+        null,
+        159,
+        "Modern Astronomical Observatory",
+        9.94333333333333,
+        51.53
+    ],
+    [
+        "Okayama Astrophysical Observatory Kurashiki/Mt. Chikurin",
+        null,
+        372,
+        "Modern Astronomical Observatory",
+        133.596666666667,
+        34.5733333333333
+    ],
+    [
+        "Guillermo Haro Astrophys. Observatory Cananea/La Mariquita  Mtn.",
+        null,
+        2480,
+        "Modern Astronomical Observatory",
+        -110.383333333333,
+        31.0533333333333
+    ],
+    [
+        "Hartebeeshoek Radio Astronomical Observatory R Hartebeeshoek",
+        "Radio",
+        1391,
+        "Modern Astronomical Observatory",
+        27.685,
+        -25.89
+    ],
+    [
+        "ROLO Flagstaff",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -111.634431,
+        35.214722
+    ],
+    [
+        "Steward Observatory Sta. Tucson/Kitt Peak",
+        null,
+        2071,
+        "Modern Astronomical Observatory",
+        -111.6,
+        31.9633333333333
+    ],
+    [
+        "Western Conn. State University Observatory Danbury",
+        null,
+        128,
+        "Modern Astronomical Observatory",
+        -73.445,
+        41.4
+    ],
+    [
+        "Rosemary Hill Observatory Bronson",
+        null,
+        44,
+        "Modern Astronomical Observatory",
+        -82.5866666666667,
+        29.4
+    ],
+    [
+        "Morrison Observatory Fayette",
+        null,
+        228,
+        "Modern Astronomical Observatory",
+        -92.6966666666667,
+        39.1516666666667
+    ],
+    [
+        "Cincinnati Observatory Cincinnati",
+        null,
+        247,
+        "Modern Astronomical Observatory",
+        -84.4233333333333,
+        39.1383333333333
+    ],
+    [
+        "Perkins Observatory Delaware",
+        null,
+        280,
+        "Modern Astronomical Observatory",
+        -83.055,
+        40.2516666666667
+    ],
+    [
+        "Allegheny Observatory Pittsburgh",
+        null,
+        380,
+        "Modern Astronomical Observatory",
+        -80.0216666666667,
+        40.4833333333333
+    ],
+    [
+        "Bucknell University Observatory Lewisburg",
+        null,
+        170,
+        "Modern Astronomical Observatory",
+        -76.8816666666667,
+        40.9516666666667
+    ],
+    [
+        "Manastash Ridge Observatory Ellensburg/Manastash Ridge",
+        null,
+        1198,
+        "Modern Astronomical Observatory",
+        -120.723333333333,
+        46.9516666666667
+    ],
+    [
+        "Tashkent Observatory Tashkent",
+        null,
+        477,
+        "Modern Astronomical Observatory",
+        69.2933333333333,
+        41.325
+    ],
+    [
+        "India, Varanasi Yantra Mandir / Temple of Instruments",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        83.006944,
+        25.325
+    ],
+    [
+        "USA New Mexico, Chaco Canyon, Pueblo Bonito",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -107.958,
+        36.0588
+    ],
+    [
+        "Abrahão de Moraes Observatory R Valinhos",
+        "Radio",
+        850,
+        "Modern Astronomical Observatory",
+        -46.9666666666667,
+        -23.0016666666667
+    ],
+    [
+        "Las Campanas Observatory Vallenar/Cerro Las Campanas",
+        null,
+        2282,
+        "Modern Astronomical Observatory",
+        -70.7,
+        -29.0083333333333
+    ],
+    [
+        "State Observatory Heidelberg/Königstuhl",
+        null,
+        570,
+        "Modern Astronomical Observatory",
+        8.72166666666667,
+        49.3983333333333
+    ],
+    [
+        "Tremsdorf Radio Astronomical Observatory R Tremsdorf",
+        "Radio",
+        35,
+        "Modern Astronomical Observatory",
+        13.1366666666667,
+        52.285
+    ],
+    [
+        "Incoherent Scatter Facility R Søndre Strømfjord",
+        "Radio",
+        180,
+        "Modern Astronomical Observatory",
+        -50.95,
+        66.9866666666667
+    ],
+    [
+        "Damecuta Observatory Anacapri",
+        null,
+        137,
+        "Modern Astronomical Observatory",
+        14.1966666666667,
+        40.5583333333333
+    ],
+    [
+        "Mizusawa Astrogeodynamics Observatory Mizusawa",
+        null,
+        61,
+        "Modern Astronomical Observatory",
+        141.131666666667,
+        39.135
+    ],
+    [
+        "Sirahama Hydrographic Observatory Sirahama",
+        null,
+        172,
+        "Modern Astronomical Observatory",
+        138.988333333333,
+        34.7133333333333
+    ],
+    [
+        "Sonnenborgh Observatory Utrecht",
+        null,
+        14,
+        "Modern Astronomical Observatory",
+        5.13,
+        52.0866666666667
+    ],
+    [
+        "Piwnice Astronomical Observatory R Piwnice",
+        "Radio",
+        100,
+        "Modern Astronomical Observatory",
+        18.5566666666667,
+        53.095
+    ],
+    [
+        "Wroclaw University Astronomical Observatory Wroclaw",
+        null,
+        115,
+        "Modern Astronomical Observatory",
+        17.0883333333333,
+        51.1116666666667
+    ],
+    [
+        "University of Alabama Observatory Tuscaloosa",
+        null,
+        87,
+        "Modern Astronomical Observatory",
+        -87.5416666666667,
+        33.21
+    ],
+    [
+        "National Radio Astronomical Observatory R Tucson/Kitt Peak",
+        "Radio",
+        1939,
+        "Modern Astronomical Observatory",
+        -111.615,
+        31.9533333333333
+    ],
+    [
+        "University of Maryland Observatory R College Park",
+        "Radio",
+        53,
+        "Modern Astronomical Observatory",
+        -76.9566666666667,
+        39.0016666666667
+    ],
+    [
+        "Corralitos Observatory Las Cruces",
+        null,
+        1453,
+        "Modern Astronomical Observatory",
+        -107.043333333333,
+        32.38
+    ],
+    [
+        "Saint Croix",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -64.583631,
+        17.756578
+    ],
+    [
+        "Llano del Hato Observatory Mérida",
+        null,
+        3610,
+        "Modern Astronomical Observatory",
+        -70.8666666666667,
+        8.79
+    ],
+    [
+        "Mount Pleasant Radio Astronomical Observatory R Hobart, Tasmania",
+        "Radio",
+        43,
+        "Modern Astronomical Observatory",
+        147.44,
+        -42.805
+    ],
+    [
+        "Beijing Normal University Observatory R Beijing",
+        "Radio",
+        70,
+        "Modern Astronomical Observatory",
+        116.36,
+        39.9566666666667
+    ],
+    [
+        "Charles University Astronomical Institute Prague",
+        null,
+        267,
+        "Modern Astronomical Observatory",
+        14.395,
+        50.0766666666667
+    ],
+    [
+        "Ole Rømer Observatory Århus",
+        null,
+        50,
+        "Modern Astronomical Observatory",
+        10.1966666666667,
+        56.1283333333333
+    ],
+    [
+        "Max Planck Institute for Radio Astronomical R Effelsberg",
+        "Radio",
+        369,
+        "Modern Astronomical Observatory",
+        6.885,
+        50.5266666666667
+    ],
+    [
+        "Stockert Radio Observatory R Eschweiler",
+        "Radio",
+        435,
+        "Modern Astronomical Observatory",
+        6.72333333333333,
+        50.57
+    ],
+    [
+        "Radio Astronomical Center R Udhagamandalam (Ooty)",
+        "Radio",
+        2150,
+        "Modern Astronomical Observatory",
+        76.6666666666667,
+        11.3816666666667
+    ],
+    [
+        "Kyoto University Astronomical Dept. Observatory Kyoto",
+        null,
+        86,
+        "Modern Astronomical Observatory",
+        135.786666666667,
+        35.0283333333333
+    ],
+    [
+        "Latvian State University Astronomical Observatory L Riga",
+        "Laser",
+        39,
+        "Modern Astronomical Observatory",
+        24.1166666666667,
+        56.9516666666667
+    ],
+    [
+        "Lisbon Astronomical Observatory Lisbon",
+        null,
+        111,
+        "Modern Astronomical Observatory",
+        -9.18666666666667,
+        38.7116666666667
+    ],
+    [
+        "Sternberg State Astronomical Institute Moscow",
+        null,
+        195,
+        "Modern Astronomical Observatory",
+        37.545,
+        55.7
+    ],
+    [
+        "Boyden Observatory Mazelspoort",
+        null,
+        1387,
+        "Modern Astronomical Observatory",
+        26.405,
+        -29.0383333333333
+    ],
+    [
+        "Stockholm Observatory Saltsjöbaden",
+        null,
+        60,
+        "Modern Astronomical Observatory",
+        18.3083333333333,
+        59.2716666666667
+    ],
+    [
+        "High Alpine Research Observatory Mürren/Jungfraujoch",
+        null,
+        3576,
+        "Modern Astronomical Observatory",
+        7.985,
+        46.548333333333304
+    ],
+    [
+        "Godlee Observatory Manchester, England",
+        null,
+        77,
+        "Modern Astronomical Observatory",
+        -2.23333333333333,
+        53.4766666666667
+    ],
+    [
+        "Mount Wilson Observatory R Pasadena/Mt. Wilson",
+        "Radio",
+        1742,
+        "Modern Astronomical Observatory",
+        -118.06,
+        34.2166666666667
+    ],
+    [
+        "Van Vleck Observatory Middletown",
+        null,
+        65,
+        "Modern Astronomical Observatory",
+        -72.66,
+        41.555
+    ],
+    [
+        "Haystack Observatory R Westford",
+        "Radio",
+        146,
+        "Modern Astronomical Observatory",
+        -71.4883333333333,
+        42.6233333333333
+    ],
+    [
+        "C.E. Kenneth Mees Observatory Bristol Springs",
+        null,
+        701,
+        "Modern Astronomical Observatory",
+        -77.4083333333333,
+        42.7
+    ],
+    [
+        "Dark Sky Observatory Boone",
+        null,
+        926,
+        "Modern Astronomical Observatory",
+        -81.4116666666667,
+        36.2516666666667
+    ],
+    [
+        "Strawbridge Observatory R Haverford",
+        "Radio",
+        116,
+        "Modern Astronomical Observatory",
+        -75.3033333333333,
+        40.0116666666667
+    ],
+    [
+        "India, New Delhi Yantra Mandir / Temple of Instruments",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        77.2180555555556,
+        28.6263888888889
+    ],
+    [
+        "Iran, Maragheh",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        46.2,
+        37.4
+    ],
+    [
+        "Macedonia, Kokino",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        21.85,
+        42.26
+    ],
+    [
+        "Beijing Observatory Sta. I Xinglong",
+        "Infrared",
+        870,
+        "Modern Astronomical Observatory",
+        117.575,
+        40.395
+    ],
+    [
+        "Uttar Pradesh State Observatory Naini Tal/Manora Peak",
+        null,
+        1927,
+        "Modern Astronomical Observatory",
+        79.4566666666667,
+        29.3616666666667
+    ],
+    [
+        "Simosato Hydrographic Observatory R L Simosato",
+        "Laser Radio",
+        63,
+        "Modern Astronomical Observatory",
+        135.94,
+        33.575
+    ],
+    [
+        "Super-Kamiokande N Observatory",
+        null,
+        -2400,
+        "Modern Astronomical Observatory",
+        137.31,
+        36.43
+    ],
+    [
+        "Kvistaberg Observatory Bro",
+        null,
+        33,
+        "Modern Astronomical Observatory",
+        17.6066666666667,
+        59.5016666666667
+    ],
+    [
+        "Leuschner Observatory Lafayette",
+        null,
+        304,
+        "Modern Astronomical Observatory",
+        -122.156666666667,
+        37.9183333333333
+    ],
+    [
+        "Mount Laguna Observatory L Mount Laguna",
+        "Laser",
+        1859,
+        "Modern Astronomical Observatory",
+        -116.426666666667,
+        32.84
+    ],
+    [
+        "John J. McCarthy Observatory New Milford",
+        null,
+        79,
+        "Modern Astronomical Observatory",
+        -73.4266666666667,
+        41.5266666666667
+    ],
+    [
+        "Egypt, Abu Simbel",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        31.6255555555556,
+        22.3369444444444
+    ],
+    [
+        "Byurakan Astrophysical Observatory R Yerevan/Mt. Aragatz",
+        "Radio",
+        1500,
+        "Modern Astronomical Observatory",
+        44.2916666666667,
+        40.335
+    ],
+    [
+        "Tuorla Observatory Piikkiö",
+        null,
+        40,
+        "Modern Astronomical Observatory",
+        22.4466666666667,
+        60.4166666666667
+    ],
+    [
+        "Tübingen University Astronomical Observatory Tübingen",
+        null,
+        470,
+        "Modern Astronomical Observatory",
+        9.05833333333333,
+        48.5383333333333
+    ],
+    [
+        "Wendelstein Solar Observatory Brannenburg",
+        null,
+        1838,
+        "Modern Astronomical Observatory",
+        12.0133333333333,
+        47.7083333333333
+    ],
+    [
+        "University of Thessaloníki Observatory Thessaloníki",
+        null,
+        28,
+        "Modern Astronomical Observatory",
+        22.9583333333333,
+        40.6166666666667
+    ],
+    [
+        "Chaonis Observatory Chions",
+        null,
+        15,
+        "Modern Astronomical Observatory",
+        12.7116666666667,
+        45.8433333333333
+    ],
+    [
+        "Rome Observatory Rome/Monte Mario",
+        null,
+        152,
+        "Modern Astronomical Observatory",
+        12.4516666666667,
+        41.9216666666667
+    ],
+    [
+        "Nobeyama Solar Radio Observatory R Nobeyama",
+        "Radio",
+        1350,
+        "Modern Astronomical Observatory",
+        138.48,
+        35.9383333333333
+    ],
+    [
+        "Bohyunsan Optical Astronomical Observatory Youngchun/Mt. Bohyun",
+        null,
+        1127,
+        "Modern Astronomical Observatory",
+        128.976666666667,
+        36.1666666666667
+    ],
+    [
+        "National Astronomical Observatory R Tonantzintla",
+        "Radio",
+        2150,
+        "Modern Astronomical Observatory",
+        -98.3133333333333,
+        19.0333333333333
+    ],
+    [
+        "Deep Space Sta. R Cebreros",
+        "Radio",
+        789,
+        "Modern Astronomical Observatory",
+        -4.36666666666667,
+        40.455
+    ],
+    [
+        "Ramon Maria Aller Observatory Santiago de Compostela",
+        null,
+        240,
+        "Modern Astronomical Observatory",
+        -8.56,
+        42.875
+    ],
+    [
+        "Taipei Observatory Taipei",
+        null,
+        31,
+        "Modern Astronomical Observatory",
+        121.526666666667,
+        25.0783333333333
+    ],
+    [
+        "Chilbolton Observatory R Chilbolton, England",
+        "Radio",
+        92,
+        "Modern Astronomical Observatory",
+        -1.43666666666667,
+        51.145
+    ],
+    [
+        "Chamberlin Observatory Denver",
+        null,
+        1644,
+        "Modern Astronomical Observatory",
+        -104.953333333333,
+        39.6766666666667
+    ],
+    [
+        "Mauna Kea Observatory I Hilo/Mauna Kea, Hawaii",
+        "Infrared",
+        4214,
+        "Modern Astronomical Observatory",
+        -155.47,
+        19.8233333333333
+    ],
+    [
+        "W.M. Keck Observatory Hilo/Mauna Kea, Hawaii",
+        null,
+        4160,
+        "Modern Astronomical Observatory",
+        -155.475,
+        19.8266666666667
+    ],
+    [
+        "Hopkins Observatory R Williamstown",
+        "Radio",
+        215,
+        "Modern Astronomical Observatory",
+        -73.2016666666667,
+        42.7116666666667
+    ],
+    [
+        "Oak Ridge Observatory R Harvard",
+        "Radio",
+        185,
+        "Modern Astronomical Observatory",
+        -71.5583333333333,
+        42.505
+    ],
+    [
+        "Germany, Goseck",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        11.86458,
+        51.19823
+    ],
+    [
+        "Mexico, Teotihuacan",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -98.843973,
+        19.699441
+    ],
+    [
+        "Urania Observatory Vienna",
+        null,
+        193,
+        "Modern Astronomical Observatory",
+        16.385,
+        48.2116666666667
+    ],
+    [
+        "Copenhagen University Observatory Copenhagen",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        12.5766666666667,
+        55.6866666666667
+    ],
+    [
+        "Remeis Observatory Bamberg",
+        null,
+        288,
+        "Modern Astronomical Observatory",
+        10.89,
+        49.885
+    ],
+    [
+        "Stuttgart Observatory Welzheim",
+        null,
+        547,
+        "Modern Astronomical Observatory",
+        9.59666666666667,
+        48.875
+    ],
+    [
+        "Cagliari Astronomical Observatory L Capoterra",
+        "Laser",
+        205,
+        "Modern Astronomical Observatory",
+        8.97666666666667,
+        39.1366666666667
+    ],
+    [
+        "Kwasan Observatory Kyoto",
+        null,
+        221,
+        "Modern Astronomical Observatory",
+        135.793333333333,
+        34.995
+    ],
+    [
+        "Nagoya University Sugadaira Sta. R Toyokawa",
+        "Radio",
+        1280,
+        "Modern Astronomical Observatory",
+        138.321666666667,
+        36.52
+    ],
+    [
+        "Norikura Solar Observatory I Matsumoto/Mt. Norikura",
+        "Infrared",
+        2876,
+        "Modern Astronomical Observatory",
+        137.555,
+        36.1133333333333
+    ],
+    [
+        "Mount John University Observatory Lake Tekapo/Mt. John",
+        null,
+        1027,
+        "Modern Astronomical Observatory",
+        170.465,
+        -43.9866666666667
+    ],
+    [
+        "Pulkovo Observatory Sta. Kislovodsk/Shat Jat Mass Mtn.",
+        null,
+        2130,
+        "Modern Astronomical Observatory",
+        42.53,
+        43.7333333333333
+    ],
+    [
+        "South African Astronomical Observatory Sta. Sutherland",
+        null,
+        1771,
+        "Modern Astronomical Observatory",
+        20.8116666666667,
+        -32.3783333333333
+    ],
+    [
+        "Arosa Astrophysical Observatory Arosa",
+        null,
+        2050,
+        "Modern Astronomical Observatory",
+        9.66833333333333,
+        46.7833333333333
+    ],
+    [
+        "Ege University Observatory Bornova",
+        null,
+        795,
+        "Modern Astronomical Observatory",
+        27.275,
+        38.3983333333333
+    ],
+    [
+        "Griffith Observatory Los Angeles",
+        null,
+        357,
+        "Modern Astronomical Observatory",
+        -118.298333333333,
+        34.1183333333333
+    ],
+    [
+        "Tiara Observatory South Park",
+        null,
+        2679,
+        "Modern Astronomical Observatory",
+        -105.516666666667,
+        38.97
+    ],
+    [
+        "Joint Astronomy Centre R I Hilo/Mauna Kea, Hawaii",
+        "Infrared Radio",
+        4198,
+        "Modern Astronomical Observatory",
+        -155.47,
+        19.8216666666667
+    ],
+    [
+        "Glen D. Riley",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -88.1598,
+        41.7003
+    ],
+    [
+        "Joint Observatory for Cometary Research Socorro/South Baldy  Peak",
+        null,
+        3235,
+        "Modern Astronomical Observatory",
+        -107.188333333333,
+        33.985
+    ],
+    [
+        "The Franklin Institute Observatory Philadelphia",
+        null,
+        30,
+        "Modern Astronomical Observatory",
+        -75.1733333333333,
+        39.9583333333333
+    ],
+    [
+        "University of S.C. Radio Observatory R Columbia",
+        "Radio",
+        127,
+        "Modern Astronomical Observatory",
+        -81.0316666666667,
+        33.9966666666667
+    ],
+    [
+        "Millimeter Wave Observatory R Fort Davis/Mt. Locke",
+        "Radio",
+        2031,
+        "Modern Astronomical Observatory",
+        -104.028333333333,
+        30.6716666666667
+    ],
+    [
+        "Naval Research Lab. Radio Sta. R Sugar Grove",
+        "Radio",
+        705,
+        "Modern Astronomical Observatory",
+        -79.2733333333333,
+        38.52
+    ],
+    [
+        "Malta, Mnajdra",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        14.436325,
+        35.8268416666667
+    ],
+    [
+        "USA New Mexico, Chaco Canyon, Casa Rinconada",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -107.958,
+        36.0588
+    ],
+    [
+        "Manuel Foster Astrophys. Observatory Santiago/Cerro San  Cristobal",
+        null,
+        840,
+        "Modern Astronomical Observatory",
+        -70.63,
+        -33.4183333333333
+    ],
+    [
+        "Kryonerion Astronomical Observatory Kiáton/Mt. Killini",
+        null,
+        905,
+        "Modern Astronomical Observatory",
+        22.6216666666667,
+        37.9733333333333
+    ],
+    [
+        "Auckland Observatory Auckland",
+        null,
+        80,
+        "Modern Astronomical Observatory",
+        174.778333333333,
+        -36.9066666666667
+    ],
+    [
+        "Mount Suhora Observatory Koninki/Mt. Suhora",
+        null,
+        1000,
+        "Modern Astronomical Observatory",
+        20.0666666666667,
+        49.57
+    ],
+    [
+        "Kaliningrad University Observatory Kaliningrad",
+        null,
+        24,
+        "Modern Astronomical Observatory",
+        20.495,
+        54.7133333333333
+    ],
+    [
+        "Onsala Space Observatory R Onsala",
+        "Radio",
+        24,
+        "Modern Astronomical Observatory",
+        11.9183333333333,
+        57.3933333333333
+    ],
+    [
+        "Zimmerwald Observatory Zimmerwald",
+        null,
+        929,
+        "Modern Astronomical Observatory",
+        7.465,
+        46.8766666666667
+    ],
+    [
+        "Crimean Astrophysical Observatory R Simeis",
+        "Radio",
+        676,
+        "Modern Astronomical Observatory",
+        34.0166666666667,
+        44.535
+    ],
+    [
+        "U.S. Naval Observatory Sta. Flagstaff",
+        null,
+        2316,
+        "Modern Astronomical Observatory",
+        -111.74,
+        35.1833333333333
+    ],
+    [
+        "Hat Creek Radio Astronomical Observatory R Cassel",
+        "Radio",
+        1043,
+        "Modern Astronomical Observatory",
+        -121.473333333333,
+        40.8183333333333
+    ],
+    [
+        "Westford Antenna Facility R Westford",
+        "Radio",
+        115,
+        "Modern Astronomical Observatory",
+        -71.495,
+        42.6133333333333
+    ],
+    [
+        "Hancock",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -71.986581,
+        42.933608
+    ],
+    [
+        "Crawford Hill Observatory R Holmdel",
+        "Radio",
+        114,
+        "Modern Astronomical Observatory",
+        -74.1866666666667,
+        40.3916666666667
+    ],
+    [
+        "Goldendale Observatory",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -120.816237,
+        45.839388
+    ],
+    [
+        "Washburn Observatory Madison",
+        null,
+        292,
+        "Modern Astronomical Observatory",
+        -89.4083333333333,
+        43.0766666666667
+    ],
+    [
+        "Wyoming Infrared Observatory I Jelm/Jelm Mtn.",
+        "Infrared",
+        2943,
+        "Modern Astronomical Observatory",
+        -105.976666666667,
+        41.0983333333333
+    ],
+    [
+        "Malta, Hagar Kim",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        14.4423638888889,
+        35.8276416666667
+    ],
+    [
+        "Peru, Chankillo",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -78.2273694444444,
+        -9.56118611111111
+    ],
+    [
+        "Shaanxi Astronomical Observatory R Lintong",
+        "Radio",
+        468,
+        "Modern Astronomical Observatory",
+        109.551666666667,
+        34.945
+    ],
+    [
+        "Geodetical Faculty Observatory Zagreb",
+        null,
+        146,
+        "Modern Astronomical Observatory",
+        16.0216666666667,
+        45.825
+    ],
+    [
+        "Valasské Mezirící Observatory Valasské Mezirící",
+        null,
+        338,
+        "Modern Astronomical Observatory",
+        17.975,
+        49.4633333333333
+    ],
+    [
+        "Lohrmann Observatory Dresden",
+        null,
+        324,
+        "Modern Astronomical Observatory",
+        13.8716666666667,
+        51.05
+    ],
+    [
+        "Schauinsland Observatory Freiburg/Schauinsland Mtn.",
+        null,
+        1240,
+        "Modern Astronomical Observatory",
+        7.90666666666667,
+        47.915
+    ],
+    [
+        "Urania Observatory Budapest",
+        null,
+        166,
+        "Modern Astronomical Observatory",
+        19.065,
+        47.485
+    ],
+    [
+        "Padua Astronomical Observatory Padua",
+        null,
+        38,
+        "Modern Astronomical Observatory",
+        11.8716666666667,
+        45.4
+    ],
+    [
+        "Cantonal Observatory Neuchâtel",
+        null,
+        488,
+        "Modern Astronomical Observatory",
+        6.95833333333333,
+        46.9983333333333
+    ],
+    [
+        "Institute of Astrophysics Dushanbe",
+        null,
+        820,
+        "Modern Astronomical Observatory",
+        68.7816666666667,
+        38.5616666666667
+    ],
+    [
+        "McGraw-Hill Observatory Tucson/Kitt Peak",
+        null,
+        1925,
+        "Modern Astronomical Observatory",
+        -111.616666666667,
+        31.95
+    ],
+    [
+        "Stanford Center for Radar Astronomical R Palo Alto",
+        "Radio",
+        172,
+        "Modern Astronomical Observatory",
+        -122.178333333333,
+        37.4583333333333
+    ],
+    [
+        "Fernbank Observatory Atlanta",
+        null,
+        320,
+        "Modern Astronomical Observatory",
+        -84.3183333333333,
+        33.7783333333333
+    ],
+    [
+        "The Clay Center Brookline",
+        null,
+        47,
+        "Modern Astronomical Observatory",
+        -71.1333333333333,
+        42.3333333333333
+    ],
+    [
+        "National Radio Astronomical Observatory R Socorro",
+        "Radio",
+        2124,
+        "Modern Astronomical Observatory",
+        -107.618333333333,
+        34.0783333333333
+    ],
+    [
+        "Cordell-Lorenz",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -85.92,
+        35.204444
+    ],
+    [
+        "Texas A&M",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -96.36665,
+        30.572717
+    ],
+    [
+        "Egypt, The Great Sphinx of Giza",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        31.137979,
+        29.975413
+    ],
+    [
+        "Mexico, Chichen Itza, Caracol",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -88.4019,
+        20.6831
+    ],
+    [
+        "Riverview College Observatory Lane Cove, New South Wales",
+        null,
+        25,
+        "Modern Astronomical Observatory",
+        151.158333333333,
+        -33.83
+    ],
+    [
+        "Mont Mégantic Astronomical Observatory Mégantic/Mont Mégantic,  Quebec",
+        null,
+        1114,
+        "Modern Astronomical Observatory",
+        -71.1533333333333,
+        45.455
+    ],
+    [
+        "ALMA Chajnantor",
+        null,
+        5000,
+        "Modern Astronomical Observatory",
+        -67.759,
+        -23.0057
+    ],
+    [
+        "European Southern Observatory R La Serena/Cerro La Silla",
+        "Radio",
+        2347,
+        "Modern Astronomical Observatory",
+        -70.73,
+        -29.2566666666667
+    ],
+    [
+        "Shanghai Observatory Sta. R Urumqui",
+        "Radio",
+        2080,
+        "Modern Astronomical Observatory",
+        87.1783333333333,
+        43.4716666666667
+    ],
+    [
+        "Shanghai Observatory Sta. R Xujiahui",
+        "Radio",
+        5,
+        "Modern Astronomical Observatory",
+        121.426666666667,
+        31.19
+    ],
+    [
+        "European Incoh. Scatter Facility R Sodankylä",
+        "Radio",
+        197,
+        "Modern Astronomical Observatory",
+        26.6266666666667,
+        67.3633333333333
+    ],
+    [
+        "Lyon University Observatory St. Genis Laval",
+        null,
+        299,
+        "Modern Astronomical Observatory",
+        4.785,
+        45.695
+    ],
+    [
+        "Observatory of Haute-Provence Forcalquier/St. Michel",
+        null,
+        665,
+        "Modern Astronomical Observatory",
+        5.71333333333333,
+        43.9316666666667
+    ],
+    [
+        "Paris Observatory Paris",
+        null,
+        67,
+        "Modern Astronomical Observatory",
+        2.33666666666667,
+        48.8366666666667
+    ],
+    [
+        "Bochum Observatory Bochum",
+        null,
+        132,
+        "Modern Astronomical Observatory",
+        7.22333333333333,
+        51.465
+    ],
+    [
+        "Brera-Milan Astronomical Observatory Merate",
+        null,
+        340,
+        "Modern Astronomical Observatory",
+        9.42833333333333,
+        45.7
+    ],
+    [
+        "Mount Ekar Observatory Asiago/Mt. Ekar",
+        null,
+        1350,
+        "Modern Astronomical Observatory",
+        11.5716666666667,
+        45.8433333333333
+    ],
+    [
+        "Turin Astronomical Observatory Pino Torinese",
+        null,
+        622,
+        "Modern Astronomical Observatory",
+        7.775,
+        45.0383333333333
+    ],
+    [
+        "Nobeyama Cosmic Radio Observatory R Nobeyama",
+        "Radio",
+        1350,
+        "Modern Astronomical Observatory",
+        138.483333333333,
+        35.9333333333333
+    ],
+    [
+        "Jagellonian Observatory Ft. Skala Sta. R Cracow",
+        "Radio",
+        314,
+        "Modern Astronomical Observatory",
+        19.8266666666667,
+        50.055
+    ],
+    [
+        "Wroclaw University Bialkow Sta. Wasosz",
+        null,
+        140,
+        "Modern Astronomical Observatory",
+        16.66,
+        51.475
+    ],
+    [
+        "Roque de los Muchachos Observatory La Palma Island  (Canaries)",
+        null,
+        2326,
+        "Modern Astronomical Observatory",
+        -17.8816666666667,
+        28.76
+    ],
+    [
+        "Geneva Observatory Sauverny",
+        null,
+        465,
+        "Modern Astronomical Observatory",
+        6.13666666666667,
+        46.3066666666667
+    ],
+    [
+        "Royal Observatory Edinburgh Edinburgh, Scotland",
+        null,
+        146,
+        "Modern Astronomical Observatory",
+        -3.18333333333333,
+        55.925
+    ],
+    [
+        "University of St. Andrews Observatory St. Andrews, Scotland",
+        null,
+        30,
+        "Modern Astronomical Observatory",
+        -2.815,
+        56.3366666666667
+    ],
+    [
+        "Steward Observatory Catalina Sta. Tucson/Mt. Lemmon",
+        null,
+        2790,
+        "Modern Astronomical Observatory",
+        -110.788333333333,
+        32.4433333333333
+    ],
+    [
+        "Lick Observatory San Jose/Mt. Hamilton",
+        null,
+        1290,
+        "Modern Astronomical Observatory",
+        -121.636666666667,
+        37.3433333333333
+    ],
+    [
+        "U.S. Naval Observatory Washington",
+        null,
+        92,
+        "Modern Astronomical Observatory",
+        -77.0666666666667,
+        38.9216666666667
+    ],
+    [
+        "Kirkwood",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -86.525833,
+        39.165833
+    ],
+    [
+        "Maria Mitchell Observatory Nantucket",
+        null,
+        20,
+        "Modern Astronomical Observatory",
+        -70.105,
+        41.28
+    ],
+    [
+        "Lustbühel Observatory Graz",
+        null,
+        480,
+        "Modern Astronomical Observatory",
+        15.495,
+        47.065
+    ],
+    [
+        "Belogradchik Astronomical Observatory Belogradchik",
+        null,
+        650,
+        "Modern Astronomical Observatory",
+        22.675,
+        43.6233333333333
+    ],
+    [
+        "Beijing Observatory Sta. Tianjing",
+        null,
+        5,
+        "Modern Astronomical Observatory",
+        117.058333333333,
+        39.1333333333333
+    ],
+    [
+        "Nicholas Copernicus Observatory Brno",
+        null,
+        304,
+        "Modern Astronomical Observatory",
+        16.5833333333333,
+        49.2033333333333
+    ],
+    [
+        "Metsähovi Observatory Radio Rsch. Sta. R Kirkkonummi",
+        "Radio",
+        61,
+        "Modern Astronomical Observatory",
+        24.3933333333333,
+        60.2183333333333
+    ],
+    [
+        "Paris Observatory Radio Astronomical Sta. R Nançay",
+        "Radio",
+        150,
+        "Modern Astronomical Observatory",
+        2.19666666666667,
+        47.38
+    ],
+    [
+        "Toulouse University Observatory Toulouse",
+        null,
+        195,
+        "Modern Astronomical Observatory",
+        1.46333333333333,
+        43.6116666666667
+    ],
+    [
+        "European Southern Observatory Headquarters",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        11.671,
+        48.26
+    ],
+    [
+        "Karl Schwarzschild Observatory Tautenburg",
+        null,
+        331,
+        "Modern Astronomical Observatory",
+        11.7133333333333,
+        50.9816666666667
+    ],
+    [
+        "Konkoly Observatory Budapest",
+        null,
+        474,
+        "Modern Astronomical Observatory",
+        18.965,
+        47.5
+    ],
+    [
+        "Nagoya University Toyokawa Sta. R Toyokawa",
+        "Radio",
+        25,
+        "Modern Astronomical Observatory",
+        137.37,
+        34.835
+    ],
+    [
+        "Leiden Observatory Leiden",
+        null,
+        12,
+        "Modern Astronomical Observatory",
+        4.485,
+        52.155
+    ],
+    [
+        "Warsaw University Astronomical Observatory Ostrowik",
+        null,
+        138,
+        "Modern Astronomical Observatory",
+        21.42,
+        52.09
+    ],
+    [
+        "Swiss Federal Observatory Zürich",
+        null,
+        469,
+        "Modern Astronomical Observatory",
+        8.55166666666667,
+        47.3766666666667
+    ],
+    [
+        "Crimean Astrophysical Observatory Partizanskoye",
+        null,
+        550,
+        "Modern Astronomical Observatory",
+        34.0166666666667,
+        44.7283333333333
+    ],
+    [
+        "Armagh Observatory Armagh, Northern Ireland",
+        null,
+        64,
+        "Modern Astronomical Observatory",
+        -6.64833333333333,
+        54.3533333333333
+    ],
+    [
+        "Jodrell Bank Observatory R Macclesfield, England",
+        "Radio",
+        78,
+        "Modern Astronomical Observatory",
+        -2.30666666666667,
+        53.2366666666667
+    ],
+    [
+        "San Fernando Observatory R San Fernando",
+        "Radio",
+        371,
+        "Modern Astronomical Observatory",
+        -118.491666666667,
+        34.3083333333333
+    ],
+    [
+        "SRI Radio Astronomical Observatory R Stanford",
+        "Infrared Radio",
+        168,
+        "Modern Astronomical Observatory",
+        -122.176666666667,
+        37.405
+    ],
+    [
+        "McKim",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -86.852222,
+        39.645556
+    ],
+    [
+        "Zenas Crane Observatory Topeka",
+        null,
+        306,
+        "Modern Astronomical Observatory",
+        -95.6966666666667,
+        39.0366666666667
+    ],
+    [
+        "Moore Observatory Brownsboro",
+        null,
+        216,
+        "Modern Astronomical Observatory",
+        -85.53,
+        38.335
+    ],
+    [
+        "Judson B. Coit",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -71.105372,
+        42.35025
+    ],
+    [
+        "Morehead Observatory Chapel Hill",
+        null,
+        161,
+        "Modern Astronomical Observatory",
+        -79.05,
+        35.9133333333333
+    ],
+    [
+        "Villanova University Observatory R Villanova",
+        "Radio",
+        null,
+        "Modern Astronomical Observatory",
+        -75.3416666666667,
+        40.04
+    ],
+    [
+        "Montevideo Observatory Montevideo",
+        null,
+        24,
+        "Modern Astronomical Observatory",
+        -56.2133333333333,
+        -34.91
+    ],
+    [
+        "Mexico, Dzibilchaltun",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -89.5972,
+        21.0911
+    ],
+    [
+        "Deep Space Sta. R Tidbinbilla, Austl. Cap. Ter.",
+        "Radio",
+        656,
+        "Modern Astronomical Observatory",
+        148.98,
+        -35.4016666666667
+    ],
+    [
+        "Devon Astronomical Observatory Devon, Alberta",
+        null,
+        708,
+        "Modern Astronomical Observatory",
+        -113.758333333333,
+        53.39
+    ],
+    [
+        "Cerro Calán National Astronomical Observatory Santiago/Cerro Calán",
+        null,
+        860,
+        "Modern Astronomical Observatory",
+        -70.5466666666667,
+        -33.3966666666667
+    ],
+    [
+        "Kottamia Observatory Kottamia",
+        null,
+        476,
+        "Modern Astronomical Observatory",
+        31.825,
+        29.9316666666667
+    ],
+    [
+        "Bosscha Observatory Lembang (Java)",
+        null,
+        1300,
+        "Modern Astronomical Observatory",
+        107.616666666667,
+        -6.825
+    ],
+    [
+        "Catania Astrophysical Observatory Catania",
+        null,
+        47,
+        "Modern Astronomical Observatory",
+        15.0866666666667,
+        37.5033333333333
+    ],
+    [
+        "Trieste Astronomical Observatory R Trieste",
+        "Radio",
+        400,
+        "Modern Astronomical Observatory",
+        13.875405,
+        45.643269
+    ],
+    [
+        "National Astronomical Observatory San Felipe (Baja)",
+        null,
+        2830,
+        "Modern Astronomical Observatory",
+        -115.463333333333,
+        31.0433333333333
+    ],
+    [
+        "Pagasa Astronomical Observatory Quezon City",
+        null,
+        70,
+        "Modern Astronomical Observatory",
+        121.071666666667,
+        14.6533333333333
+    ],
+    [
+        "Lomnický Stít Coronal Observatory Poprad/Mt. Lomnický  Stít",
+        null,
+        2632,
+        "Modern Astronomical Observatory",
+        20.22,
+        49.1966666666667
+    ],
+    [
+        "Millimeter Radio Astronomical Institute R Granada/Pico Veleta",
+        "Radio",
+        2870,
+        "Modern Astronomical Observatory",
+        -3.4,
+        37.0683333333333
+    ],
+    [
+        "Naval Observatory L San Fernando",
+        "Laser",
+        27,
+        "Modern Astronomical Observatory",
+        -6.20333333333333,
+        36.4666666666667
+    ],
+    [
+        "Gornergrat North & South Observatory R I  Zermatt/Gornergrat",
+        "Infrared Radio",
+        3135,
+        "Modern Astronomical Observatory",
+        7.785,
+        45.985
+    ],
+    [
+        "Robert Ferguson Observatory Santa Rosa",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -122.5089,
+        38.4385
+    ],
+    [
+        "GSFC Optical Test Site Greenbelt",
+        null,
+        53,
+        "Modern Astronomical Observatory",
+        -76.8266666666667,
+        39.0216666666667
+    ],
+    [
+        "National Radio Astronomical Observatory R Green Bank",
+        "Radio",
+        836,
+        "Modern Astronomical Observatory",
+        -79.8416666666667,
+        38.43
+    ],
+    [
+        "Belgrade Astronomical Observatory Belgrade, Serbia",
+        null,
+        253,
+        "Modern Astronomical Observatory",
+        20.5133333333333,
+        44.8033333333333
+    ],
+    [
+        "India, Jaipur Yantra Mandir / Temple of Instruments",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        75.8241666666667,
+        26.9244444444444
+    ],
+    [
+        "Australia Tel. Natl. Facility R Culgoora, New South  Wales",
+        "Radio",
+        217,
+        "Modern Astronomical Observatory",
+        149.561666666667,
+        -30.315
+    ],
+    [
+        "Kuffner Observatory Vienna",
+        null,
+        302,
+        "Modern Astronomical Observatory",
+        16.2966666666667,
+        48.2133333333333
+    ],
+    [
+        "Morro Santana Observatory Porto Alegre",
+        null,
+        300,
+        "Modern Astronomical Observatory",
+        -51.1266666666667,
+        -30.0533333333333
+    ],
+    [
+        "Elginfield Observatory London, Ontario",
+        null,
+        323,
+        "Modern Astronomical Observatory",
+        -81.315,
+        43.1916666666667
+    ],
+    [
+        "Gemini South Observatory La Serena/Cerro Pachón",
+        null,
+        2725,
+        "Modern Astronomical Observatory",
+        -70.7233333333333,
+        -30.2283333333333
+    ],
+    [
+        "Beijin Observatory Huairou Solar Station",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        116.594195159989,
+        40.3158941485277
+    ],
+    [
+        "Beijing Observatory Sta. R Miyun",
+        "Radio",
+        160,
+        "Modern Astronomical Observatory",
+        116.765,
+        40.5566666666667
+    ],
+    [
+        "Grenoble Observatory R Gap/Plateau de Bure",
+        "Radio",
+        2552,
+        "Modern Astronomical Observatory",
+        5.90833333333333,
+        44.6333333333333
+    ],
+    [
+        "Odeillo Solar Observatory",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        2.029316,
+        42.493959
+    ],
+    [
+        "Potsdam Astrophysical Observatory Potsdam",
+        null,
+        107,
+        "Modern Astronomical Observatory",
+        13.0666666666667,
+        52.3816666666667
+    ],
+    [
+        "Gurushikhar Infrared Observatory I Abu",
+        "Infrared",
+        1700,
+        "Modern Astronomical Observatory",
+        72.78,
+        24.6516666666667
+    ],
+    [
+        "Kagoshima Space Center R Uchinoura",
+        "Radio",
+        228,
+        "Modern Astronomical Observatory",
+        131.066666666667,
+        31.2283333333333
+    ],
+    [
+        "Kashima Space Reseach Center R Kashima",
+        "Radio",
+        32,
+        "Modern Astronomical Observatory",
+        140.66333333333301,
+        35.955
+    ],
+    [
+        "Nagoya University Radio Astronomical Lab. R Nagoya",
+        "Radio",
+        75,
+        "Modern Astronomical Observatory",
+        136.973333333333,
+        35.1483333333333
+    ],
+    [
+        "Tohoku University Observatory Sendai",
+        null,
+        153,
+        "Modern Astronomical Observatory",
+        140.843333333333,
+        38.2566666666667
+    ],
+    [
+        "Westerbork Radio Astronomical Observatory R Westerbork",
+        "Radio",
+        16,
+        "Modern Astronomical Observatory",
+        6.605,
+        52.9166666666667
+    ],
+    [
+        "Irkutsk Astronomical Observatory Irkutsk",
+        null,
+        468,
+        "Modern Astronomical Observatory",
+        104.345,
+        52.2783333333333
+    ],
+    [
+        "Kandilli Observatory Istanbul",
+        null,
+        120,
+        "Modern Astronomical Observatory",
+        29.0616666666667,
+        41.0633333333333
+    ],
+    [
+        "Lowell Observatory Flagstaff",
+        null,
+        2219,
+        "Modern Astronomical Observatory",
+        -111.665,
+        35.2033333333333
+    ],
+    [
+        "Steward Observatory Tucson",
+        null,
+        757,
+        "Modern Astronomical Observatory",
+        -110.948333333333,
+        32.2333333333333
+    ],
+    [
+        "Mount Cuba Astronomical Observatory Greenville",
+        null,
+        92,
+        "Modern Astronomical Observatory",
+        -75.6333333333333,
+        39.785
+    ],
+    [
+        "Three College Observatory Saxapahaw",
+        null,
+        183,
+        "Modern Astronomical Observatory",
+        -79.4066666666667,
+        35.945
+    ],
+    [
+        "Flower and Cook Observatory Malvern",
+        null,
+        155,
+        "Modern Astronomical Observatory",
+        -75.4933333333333,
+        40
+    ],
+    [
+        "USA Wyoming, Big Horn Medicine Wheel",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -107.921666666667,
+        44.8266666666667
+    ],
+    [
+        "Itapetinga Radio Observatory R Atibaia",
+        "Radio",
+        806,
+        "Modern Astronomical Observatory",
+        -46.5583333333333,
+        -23.185
+    ],
+    [
+        "Shanghai Observatory Sta. R L Sheshan",
+        "Laser Radio",
+        100,
+        "Modern Astronomical Observatory",
+        121.186666666667,
+        31.0966666666667
+    ],
+    [
+        "Ondrejov Observatory R Ondrejov",
+        "Radio",
+        533,
+        "Modern Astronomical Observatory",
+        14.7833333333333,
+        49.91
+    ],
+    [
+        "Helwân Observatory Helwân",
+        null,
+        116,
+        "Modern Astronomical Observatory",
+        31.38,
+        29.8583333333333
+    ],
+    [
+        "Collurania Astronomical Observatory Teramo",
+        null,
+        388,
+        "Modern Astronomical Observatory",
+        13.7333333333333,
+        42.6583333333333
+    ],
+    [
+        "Nagoya University Fujigane Sta. R Kamiku Isshiki",
+        "Radio",
+        1015,
+        "Modern Astronomical Observatory",
+        138.611666666667,
+        35.4266666666667
+    ],
+    [
+        "Riga Radio-Astrophysical Observatory R Riga",
+        "Radio",
+        75,
+        "Modern Astronomical Observatory",
+        24.4,
+        56.7833333333333
+    ],
+    [
+        "Moletai Astronomical Observatory Moletai",
+        null,
+        220,
+        "Modern Astronomical Observatory",
+        25.5633333333333,
+        55.3166666666667
+    ],
+    [
+        "Manila Observatory R Quezon City",
+        "Radio",
+        58,
+        "Modern Astronomical Observatory",
+        121.076666666667,
+        14.6366666666667
+    ],
+    [
+        "Slovak Technical University Observatory Bratislava",
+        null,
+        171,
+        "Modern Astronomical Observatory",
+        17.12,
+        48.155
+    ],
+    [
+        "South African Astronomical Observatory Cape Town",
+        null,
+        18,
+        "Modern Astronomical Observatory",
+        18.4783333333333,
+        -33.935
+    ],
+    [
+        "Cambridge University Observatory Cambridge, England",
+        null,
+        30,
+        "Modern Astronomical Observatory",
+        0.095,
+        52.2133333333333
+    ],
+    [
+        "Dearborn Observatory Evanston",
+        null,
+        195,
+        "Modern Astronomical Observatory",
+        -87.675,
+        42.0566666666667
+    ],
+    [
+        "Whitin Observatory Wellesley",
+        null,
+        32,
+        "Modern Astronomical Observatory",
+        -71.3033333333333,
+        42.295
+    ],
+    [
+        "Vatican Observatory Castel Gandolfo",
+        null,
+        450,
+        "Modern Astronomical Observatory",
+        12.6516666666667,
+        41.7466666666667
+    ],
+    [
+        "Cambodia, Angkor Vat",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        103.869167,
+        13.411111
+    ],
+    [
+        "Mount Stromlo Observatory Canberra/Mt. Stromlo, Austl. Cap.  Ter.",
+        null,
+        767,
+        "Modern Astronomical Observatory",
+        149.008333333333,
+        -35.32
+    ],
+    [
+        "Antares Astronomical Observatory Feira de Santana",
+        null,
+        256,
+        "Modern Astronomical Observatory",
+        -38.965,
+        -12.2566666666667
+    ],
+    [
+        "Maipu Radio Astronomical Observatory R Maipu",
+        "Radio",
+        446,
+        "Modern Astronomical Observatory",
+        -70.8583333333333,
+        -33.5016666666667
+    ],
+    [
+        "National Astronomical Observatory Bogotá",
+        null,
+        2640,
+        "Modern Astronomical Observatory",
+        -74.0816666666667,
+        4.59833333333333
+    ],
+    [
+        "Marseille Provence",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        5.395,
+        43.305306
+    ],
+    [
+        "Gauribidanur Radio Observatory R Gauribidanur",
+        "Radio",
+        686,
+        "Modern Astronomical Observatory",
+        77.435,
+        13.6033333333333
+    ],
+    [
+        "Kodaikanal Solar Observatory Kodaikanal",
+        null,
+        2343,
+        "Modern Astronomical Observatory",
+        77.4683333333333,
+        10.23
+    ],
+    [
+        "San Vittore Observatory Bologna",
+        null,
+        280,
+        "Modern Astronomical Observatory",
+        11.3416666666667,
+        44.4683333333333
+    ],
+    [
+        "Kazan University Observatory Kazan",
+        null,
+        79,
+        "Modern Astronomical Observatory",
+        49.1216666666667,
+        55.79
+    ],
+    [
+        "National Observatory Astronomical Center R Yebes",
+        "Radio",
+        914,
+        "Modern Astronomical Observatory",
+        -3.1,
+        40.525
+    ],
+    [
+        "Steward Observatory Catalina Sta. Tucson/Tumamoc Hill",
+        null,
+        950,
+        "Modern Astronomical Observatory",
+        -111.005,
+        32.2133333333333
+    ],
+    [
+        "Vatican Observatory Research Group I Safford/Mt. Graham",
+        "Infrared",
+        3181,
+        "Modern Astronomical Observatory",
+        -109.891666666667,
+        32.701666666666696
+    ],
+    [
+        "Chamberlin Observatory Sta. Bailey/Dick Mtn.",
+        null,
+        2675,
+        "Modern Astronomical Observatory",
+        -105.436666666667,
+        39.4266666666667
+    ],
+    [
+        "U.S. Air Force Academy Observatory Colorado Springs",
+        null,
+        2187,
+        "Modern Astronomical Observatory",
+        -104.875,
+        39.0066666666667
+    ],
+    [
+        "Maryland Point Observatory R Riverside",
+        "Radio",
+        20,
+        "Modern Astronomical Observatory",
+        -77.2316666666667,
+        38.3733333333333
+    ],
+    [
+        "Millstone Hill Atm. Sci. Fac. R Westford",
+        "Radio",
+        146,
+        "Modern Astronomical Observatory",
+        -71.495,
+        42.61
+    ],
+    [
+        "O'Brien Observatory Marine-on-St. Croix",
+        null,
+        308,
+        "Modern Astronomical Observatory",
+        -92.7766666666667,
+        45.1816666666667
+    ],
+    [
+        "National Solar Observatory Sunspot",
+        null,
+        2811,
+        "Modern Astronomical Observatory",
+        -105.82,
+        32.7866666666667
+    ],
+    [
+        "George R. Agassiz Sta. R Fort Davis",
+        "Radio",
+        1603,
+        "Modern Astronomical Observatory",
+        -103.946666666667,
+        30.635
+    ],
+    [
+        "Brewster",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -119.683278,
+        48.131228
+    ],
+    [
+        "Maidanak Astronomical Observatory Kitab/Mt. Maidanak",
+        null,
+        2500,
+        "Modern Astronomical Observatory",
+        66.9,
+        38.685
+    ],
+    [
+        "Cagigal Observatory Caracas",
+        null,
+        1026,
+        "Modern Astronomical Observatory",
+        -66.9283333333333,
+        10.5066666666667
+    ],
+    [
+        "Chile, Easter Island",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -109.3333,
+        -27.0833
+    ],
+    [
+        "Dr. Carlos U. Cesco Sta. San Juan/El Leoncito",
+        null,
+        2348,
+        "Modern Astronomical Observatory",
+        -69.33,
+        -31.8016666666667
+    ],
+    [
+        "Paranal Observatory Antofagasta/Cerro Paranal",
+        null,
+        2635,
+        "Modern Astronomical Observatory",
+        -70.4033333333333,
+        -24.625
+    ],
+    [
+        "Beijing Observatory Sta. R L Shahe",
+        "Laser Radio",
+        40,
+        "Modern Astronomical Observatory",
+        116.328333333333,
+        40.1016666666667
+    ],
+    [
+        "Central Institute for Earth Physics Potsdam",
+        null,
+        91,
+        "Modern Astronomical Observatory",
+        13.0666666666667,
+        52.3816666666667
+    ],
+    [
+        "Sonneberg Observatory Sonneberg",
+        null,
+        640,
+        "Modern Astronomical Observatory",
+        11.1916666666667,
+        50.3783333333333
+    ],
+    [
+        "National Centre for Radio Aph. Khodad",
+        null,
+        650,
+        "Modern Astronomical Observatory",
+        74.05,
+        19.1
+    ],
+    [
+        "Toyokawa Observatory R Toyokawa",
+        "Radio",
+        18,
+        "Modern Astronomical Observatory",
+        137.371666666667,
+        34.8366666666667
+    ],
+    [
+        "Korea Astronomical Observatory Taejeon",
+        null,
+        120,
+        "Modern Astronomical Observatory",
+        127.371666666667,
+        36.3983333333333
+    ],
+    [
+        "Sobaeksan Astronomical Observatory Danyang",
+        null,
+        1390,
+        "Modern Astronomical Observatory",
+        128.456666666667,
+        36.9333333333333
+    ],
+    [
+        "Carter Observatory Wellington",
+        null,
+        129,
+        "Modern Astronomical Observatory",
+        174.766666666667,
+        -41.2866666666667
+    ],
+    [
+        "Poznan University Astronomical Observatory L Poznan",
+        "Laser",
+        85,
+        "Modern Astronomical Observatory",
+        16.8783333333333,
+        52.3966666666667
+    ],
+    [
+        "Tomsk University Observatory Tomsk",
+        null,
+        130,
+        "Modern Astronomical Observatory",
+        84.9466666666667,
+        56.4683333333333
+    ],
+    [
+        "German Spanish Astronomical Center Gérgal/Calar Alto Mtn.",
+        null,
+        2168,
+        "Modern Astronomical Observatory",
+        -2.5366666666666697,
+        37.23
+    ],
+    [
+        "University of Lausanne Observatory Chavannes-des-Bois",
+        null,
+        465,
+        "Modern Astronomical Observatory",
+        6.13666666666667,
+        46.3066666666667
+    ],
+    [
+        "National Central University Observatory Chung-li",
+        null,
+        152,
+        "Modern Astronomical Observatory",
+        121.186666666667,
+        24.97
+    ],
+    [
+        "Royal Observatory Greenwich, England",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        0,
+        51.4772222222222
+    ],
+    [
+        "Steward Observatory Catalina Sta. Tucson/Mt. Bigelow",
+        null,
+        2510,
+        "Modern Astronomical Observatory",
+        -110.731666666667,
+        32.4166666666667
+    ],
+    [
+        "MIRA Oliver Observing Sta. Monterey/Chews Ridge",
+        null,
+        1525,
+        "Modern Astronomical Observatory",
+        -121.57,
+        36.305
+    ],
+    [
+        "University of Florida Radio Observatory R Old Town",
+        "Radio",
+        8,
+        "Modern Astronomical Observatory",
+        -83.035,
+        29.5283333333333
+    ],
+    [
+        "Erwin W. Fick Observatory Boone",
+        null,
+        332,
+        "Modern Astronomical Observatory",
+        -93.9416666666667,
+        42.005
+    ],
+    [
+        "Rutherfurd Observatory New York",
+        null,
+        25,
+        "Modern Astronomical Observatory",
+        -73.9583333333333,
+        40.81
+    ],
+    [
+        "Leander McCormick Observatory Sta. Charlottesville/Fan Mtn.",
+        null,
+        566,
+        "Modern Astronomical Observatory",
+        -78.6933333333333,
+        37.8783333333333
+    ],
+    [
+        "India, Ujjain Yantra Mandir / Temple of Instruments",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        75.7775,
+        23.183333
+    ],
+    [
+        "Fleurs Radio Observatory R Kemps Creek, New South Wales",
+        "Radio",
+        45,
+        "Modern Astronomical Observatory",
+        150.775,
+        -33.8633333333333
+    ],
+    [
+        "Cointe Observatory Liège",
+        null,
+        127,
+        "Modern Astronomical Observatory",
+        5.565,
+        50.6183333333333
+    ],
+    [
+        "Royal Observatory of Belgium R Uccle",
+        "Radio",
+        105,
+        "Modern Astronomical Observatory",
+        4.35833333333333,
+        50.798333333333304
+    ],
+    [
+        "Prostejov Observatory Prostejov",
+        null,
+        225,
+        "Modern Astronomical Observatory",
+        17.1633333333333,
+        49.4866666666667
+    ],
+    [
+        "Meudon Observatory Meudon",
+        null,
+        162,
+        "Modern Astronomical Observatory",
+        2.23166666666667,
+        48.805
+    ],
+    [
+        "Archenhold Observatory Berlin",
+        null,
+        41,
+        "Modern Astronomical Observatory",
+        13.4783333333333,
+        52.4866666666667
+    ],
+    [
+        "Medicina Radio Astronomical Sta. R Medicina",
+        "Radio",
+        44,
+        "Modern Astronomical Observatory",
+        11.645,
+        44.52
+    ],
+    [
+        "Vilnius Astronomical Observatory Vilnius",
+        null,
+        122,
+        "Modern Astronomical Observatory",
+        25.2866666666667,
+        54.6833333333333
+    ],
+    [
+        "Deep Space Sta. R Robledo",
+        "Radio",
+        774,
+        "Modern Astronomical Observatory",
+        -4.24833333333333,
+        40.43
+    ],
+    [
+        "European Incoh. Scatter Facility R Kiruna",
+        "Radio",
+        418,
+        "Modern Astronomical Observatory",
+        20.435,
+        67.86
+    ],
+    [
+        "Kiev University Observatory Kiev",
+        null,
+        184,
+        "Modern Astronomical Observatory",
+        30.4983333333333,
+        50.4533333333333
+    ],
+    [
+        "Lowell Observatory Sta. Flagstaff/Anderson Mesa",
+        null,
+        2200,
+        "Modern Astronomical Observatory",
+        -111.536666666667,
+        35.0966666666667
+    ],
+    [
+        "Owens Valley Radio Observatory R Big Pine",
+        "Radio",
+        1236,
+        "Modern Astronomical Observatory",
+        -118.281666666667,
+        37.2316666666667
+    ],
+    [
+        "Brevard Community College Observatory Cocoa",
+        null,
+        17,
+        "Modern Astronomical Observatory",
+        -80.7616666666667,
+        28.385
+    ],
+    [
+        "LURE Observatory L Kahului/Haleakala, Maui",
+        "Laser",
+        3049,
+        "Modern Astronomical Observatory",
+        -156.258333333333,
+        20.71
+    ],
+    [
+        "Grant O. Gale Observatory Grinnell",
+        null,
+        318,
+        "Modern Astronomical Observatory",
+        -92.72,
+        41.7566666666667
+    ],
+    [
+        "Clyde W. Tombaugh Observatory Lawrence",
+        null,
+        323,
+        "Modern Astronomical Observatory",
+        -95.25,
+        38.96
+    ],
+    [
+        "Los Alamos",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -106.245597,
+        35.775125
+    ],
+    [
+        "Bradstreet",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -75.368889,
+        40.050278
+    ],
+    [
+        "Thompson Observatory Beloit",
+        null,
+        255,
+        "Modern Astronomical Observatory",
+        -89.0316666666667,
+        42.505
+    ],
+    [
+        "United Kingdom, England, Stonehenge",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -1.826412,
+        51.178861
+    ],
+    [
+        "USA Utah, Hovenweep",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -109.0803,
+        37.3858
+    ],
+    [
+        "Australian Natl. Radio Astronomical Observatory R Parkes, New South  Wales",
+        "Radio",
+        392,
+        "Modern Astronomical Observatory",
+        148.261666666667,
+        -33
+    ],
+    [
+        "Royal Observatory Radio Astronomical Sta. R Humain",
+        "Radio",
+        293,
+        "Modern Astronomical Observatory",
+        5.255,
+        50.1916666666667
+    ],
+    [
+        "Cerro Armazones Observatory",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -70.1963888888889,
+        -24.5975
+    ],
+    [
+        "Cerro El Roble Astronomical Observatory Santiago/Cerro El Roble",
+        null,
+        2220,
+        "Modern Astronomical Observatory",
+        -71.02,
+        -32.9816666666667
+    ],
+    [
+        "Hvar Observatory Hvar",
+        null,
+        238,
+        "Modern Astronomical Observatory",
+        16.4483333333333,
+        43.1783333333333
+    ],
+    [
+        "Hoher List Observatory Daun/Hoher List",
+        null,
+        533,
+        "Modern Astronomical Observatory",
+        6.85,
+        50.1633333333333
+    ],
+    [
+        "Institute of Geodesy Astronomical Observatory Hannover",
+        null,
+        71,
+        "Modern Astronomical Observatory",
+        9.71333333333333,
+        52.3883333333333
+    ],
+    [
+        "Heliophysical Observatory Debrecen",
+        null,
+        132,
+        "Modern Astronomical Observatory",
+        21.6233333333333,
+        47.56
+    ],
+    [
+        "Hiraiso Solar Terr. Rsch. Center R Nakaminato",
+        "Radio",
+        27,
+        "Modern Astronomical Observatory",
+        140.625,
+        36.3666666666667
+    ],
+    [
+        "Kiso Observatory Kiso",
+        null,
+        1130,
+        "Modern Astronomical Observatory",
+        137.628333333333,
+        35.7933333333333
+    ],
+    [
+        "Coimbra Astronomical Observatory Coimbra",
+        null,
+        99,
+        "Modern Astronomical Observatory",
+        -8.43,
+        40.2066666666667
+    ],
+    [
+        "Tübitak National Observatory Antalya/Mt. Bakirlitepe",
+        null,
+        2515,
+        "Modern Astronomical Observatory",
+        30.335,
+        36.825
+    ],
+    [
+        "Institute of Radio Astronomical R Kharkov",
+        "Radio",
+        150,
+        "Modern Astronomical Observatory",
+        36.9333333333333,
+        49.6333333333333
+    ],
+    [
+        "Main Astronomical Observatory Kiev",
+        null,
+        188,
+        "Modern Astronomical Observatory",
+        30.5066666666667,
+        50.365
+    ],
+    [
+        "Odessa Observatory Odessa",
+        null,
+        60,
+        "Modern Astronomical Observatory",
+        30.7583333333333,
+        46.4766666666667
+    ],
+    [
+        "Northern Arizona University Observatory Flagstaff",
+        null,
+        2110,
+        "Modern Astronomical Observatory",
+        -111.653333333333,
+        35.185
+    ],
+    [
+        "Big Bear Solar Observatory Big Bear City",
+        null,
+        2067,
+        "Modern Astronomical Observatory",
+        -116.921,
+        34.258
+    ],
+    [
+        "Chabot Space & Science Center Oakland",
+        null,
+        476,
+        "Modern Astronomical Observatory",
+        -122.181666666667,
+        37.8183333333333
+    ],
+    [
+        "Naval Rsch. Lab. Radio Astronomical Observatory R Washington",
+        "Radio",
+        30,
+        "Modern Astronomical Observatory",
+        -77.0266666666667,
+        38.8216666666667
+    ],
+    [
+        "Bradley Observatory Decatur",
+        null,
+        316,
+        "Modern Astronomical Observatory",
+        -84.2933333333333,
+        33.765
+    ],
+    [
+        "Black Moshannon Observatory State College/Rattlesnake Mtn.",
+        null,
+        738,
+        "Modern Astronomical Observatory",
+        -78.005,
+        40.9216666666667
+    ],
+    [
+        "Pine Bluff Observatory Pine Bluff",
+        null,
+        366,
+        "Modern Astronomical Observatory",
+        -89.685,
+        43.0783333333333
+    ],
+    [
+        "Argentine Radio Astronomical Institute R Villa Elisa",
+        "Radio",
+        11,
+        "Modern Astronomical Observatory",
+        -58.1366666666667,
+        -34.8683333333333
+    ],
+    [
+        "El Leoncito Astronomical Complex San Juan/El Leoncito",
+        null,
+        2552,
+        "Modern Astronomical Observatory",
+        -69.3,
+        -31.8
+    ],
+    [
+        "Perth Observatory Bickley, Western Australia",
+        null,
+        391,
+        "Modern Astronomical Observatory",
+        116.135,
+        -32.0083333333333
+    ],
+    [
+        "Kanzelhöhe Solar Observatory Klagenfurt/Kanzelhöhe",
+        null,
+        1526,
+        "Modern Astronomical Observatory",
+        13.9066666666667,
+        46.6783333333333
+    ],
+    [
+        "Piedade Observatory Belo Horizonte",
+        null,
+        1746,
+        "Modern Astronomical Observatory",
+        -43.5116666666667,
+        -19.8216666666667
+    ],
+    [
+        "Millimeter Radio Astronomical Institute R Gap/Plateau de Bure",
+        "Radio",
+        2552,
+        "Modern Astronomical Observatory",
+        5.90666666666667,
+        44.6333333333333
+    ],
+    [
+        "Friedrich Schiller University Observatory Jena",
+        null,
+        356,
+        "Modern Astronomical Observatory",
+        11.4866666666667,
+        50.93
+    ],
+    [
+        "Heliophysical Observatory Sta. Gyula",
+        null,
+        135,
+        "Modern Astronomical Observatory",
+        21.27,
+        46.6533333333333
+    ],
+    [
+        "Japal-Rangapur Observatory R Japal",
+        "Radio",
+        695,
+        "Modern Astronomical Observatory",
+        78.7283333333333,
+        17.0983333333333
+    ],
+    [
+        "Nizamiah Observatory Hyderabad",
+        null,
+        554,
+        "Modern Astronomical Observatory",
+        78.4533333333333,
+        17.4316666666667
+    ],
+    [
+        "Kapteyn Observatory Roden",
+        null,
+        12,
+        "Modern Astronomical Observatory",
+        6.44333333333333,
+        53.1283333333333
+    ],
+    [
+        "Astronomical Latitude Observatory L Borowiec",
+        "Laser",
+        80,
+        "Modern Astronomical Observatory",
+        17.075,
+        52.2766666666667
+    ],
+    [
+        "Kitt Peak National Observatory Tucson/Kitt Peak",
+        null,
+        2120,
+        "Modern Astronomical Observatory",
+        -111.6,
+        31.9633333333333
+    ],
+    [
+        "University of Iowa Observatory Riverside",
+        null,
+        221,
+        "Modern Astronomical Observatory",
+        -91.56,
+        41.515
+    ],
+    [
+        "University of Mich. Radio Astronomical Observatory R Dexter",
+        "Radio",
+        345,
+        "Modern Astronomical Observatory",
+        -83.9366666666667,
+        42.3983333333333
+    ],
+    [
+        "Behlen Observatory Mead",
+        null,
+        362,
+        "Modern Astronomical Observatory",
+        -96.4466666666667,
+        41.1716666666667
+    ],
+    [
+        "MacLean Observatory Incline Village",
+        null,
+        2546,
+        "Modern Astronomical Observatory",
+        -119.928333333333,
+        39.295
+    ],
+    [
+        "Melton Memorial Observatory Columbia",
+        null,
+        98,
+        "Modern Astronomical Observatory",
+        -81.0266666666667,
+        33.9966666666667
+    ],
+    [
+        "Uluk-Bek Latitude Sta. Kitab",
+        null,
+        658,
+        "Modern Astronomical Observatory",
+        66.8816666666667,
+        39.1333333333333
+    ],
+    [
+        "Anglo-Australian Observatory I Coonabarabran/Siding Spring,  N.S.W.",
+        "Infrared",
+        1164,
+        "Modern Astronomical Observatory",
+        149.066666666667,
+        -31.2766666666667
+    ],
+    [
+        "Algonquin Radio Observatory R Lake Traverse, Ontario",
+        "Radio",
+        260,
+        "Modern Astronomical Observatory",
+        -78.0733333333333,
+        45.955
+    ],
+    [
+        "David Dunlap Observatory Richmond Hill, Ontario",
+        null,
+        244,
+        "Modern Astronomical Observatory",
+        -79.4216666666667,
+        43.8633333333333
+    ],
+    [
+        "Wuchang Time Observatory L Wuhan",
+        "Laser",
+        28,
+        "Modern Astronomical Observatory",
+        114.345,
+        30.5416666666667
+    ],
+    [
+        "Côte d'Azur Observatory Calern Sta. I L St. Vallier-de-Thiey",
+        "Infrared Laser",
+        1270,
+        "Modern Astronomical Observatory",
+        6.92666666666667,
+        43.7483333333333
+    ],
+    [
+        "Florence and George Wise Observatory Mitzpe Ramon/Mt. Zin",
+        null,
+        874,
+        "Modern Astronomical Observatory",
+        34.7633333333333,
+        30.5966666666667
+    ],
+    [
+        "Bologna University Observatory Loiano",
+        null,
+        785,
+        "Modern Astronomical Observatory",
+        11.3366666666667,
+        44.2583333333333
+    ],
+    [
+        "International Latitude Observatory Carloforte",
+        null,
+        22,
+        "Modern Astronomical Observatory",
+        8.31166666666667,
+        39.1372222222222
+    ],
+    [
+        "Sendai Astronomical Observatory Sendai",
+        null,
+        45,
+        "Modern Astronomical Observatory",
+        140.865,
+        38.2566666666667
+    ],
+    [
+        "Mountain Observatory Alma-Ata",
+        null,
+        1450,
+        "Modern Astronomical Observatory",
+        76.9566666666667,
+        43.1883333333333
+    ],
+    [
+        "Special Astrophysical Observatory R  Zelenchukskaya/Pasterkhov Mtn.",
+        "Radio",
+        2100,
+        "Modern Astronomical Observatory",
+        41.4416666666667,
+        43.6533333333333
+    ],
+    [
+        "St. Petersburg University Observatory St. Petersburg",
+        null,
+        3,
+        "Modern Astronomical Observatory",
+        30.295,
+        59.9416666666667
+    ],
+    [
+        "National Astronomical Observatory Madrid",
+        null,
+        670,
+        "Modern Astronomical Observatory",
+        -3.685,
+        40.41
+    ],
+    [
+        "Basle University Astronomical Institute Binningen",
+        null,
+        318,
+        "Modern Astronomical Observatory",
+        7.58333333333333,
+        47.5416666666667
+    ],
+    [
+        "Kharkov University Astronomical Observatory Kharkov",
+        null,
+        138,
+        "Modern Astronomical Observatory",
+        36.2316666666667,
+        50.0033333333333
+    ],
+    [
+        "City Observatory Edinburgh, Scotland",
+        null,
+        107,
+        "Modern Astronomical Observatory",
+        -3.18,
+        55.9566666666667
+    ],
+    [
+        "Sommers-Bausch Observatory Boulder",
+        null,
+        1653,
+        "Modern Astronomical Observatory",
+        -105.263333333333,
+        40.0033333333333
+    ],
+    [
+        "Goethe Link Observatory Brooklyn",
+        null,
+        300,
+        "Modern Astronomical Observatory",
+        -86.395,
+        39.55
+    ],
+    [
+        "North Liberty Radio Observatory R North Liberty",
+        "Radio",
+        241,
+        "Modern Astronomical Observatory",
+        -91.575,
+        41.7716666666667
+    ],
+    [
+        "Capilla Peak Observatory Albuquerque/Capilla Peak",
+        null,
+        2842,
+        "Modern Astronomical Observatory",
+        -106.405,
+        34.6966666666667
+    ],
+    [
+        "United Kingdom, Scotland, Callanish",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -6.745088,
+        58.19742
+    ],
+    [
+        "Naval Observatory Buenos Aires",
+        null,
+        6,
+        "Modern Astronomical Observatory",
+        -58.355,
+        -34.6216666666667
+    ],
+    [
+        "Molonglo Radio Observatory R Hoskinstown, New South Wales",
+        "Radio",
+        732,
+        "Modern Astronomical Observatory",
+        149.423333333333,
+        -35.3716666666667
+    ],
+    [
+        "Siding Spring Observatory Coonabarabran/Siding Spring,  N.S.W.",
+        null,
+        1149,
+        "Modern Astronomical Observatory",
+        149.061666666667,
+        -31.2733333333333
+    ],
+    [
+        "Ottawa River Solar Observatory Ottawa, Ontario",
+        null,
+        58,
+        "Modern Astronomical Observatory",
+        -75.8933333333333,
+        45.3866666666667
+    ],
+    [
+        "Hamburg Observatory Bergedorf",
+        null,
+        45,
+        "Modern Astronomical Observatory",
+        10.2416666666667,
+        53.4816666666667
+    ],
+    [
+        "Konkoly Observatory Sta. Piszkéstetö",
+        null,
+        958,
+        "Modern Astronomical Observatory",
+        19.895,
+        47.9183333333333
+    ],
+    [
+        "Indian Astronomical Observatory Hanle/Mt. Saraswati",
+        null,
+        4467,
+        "Modern Astronomical Observatory",
+        78.965,
+        32.78
+    ],
+    [
+        "Arcetri Astrophysical Observatory Arcetri",
+        null,
+        184,
+        "Modern Astronomical Observatory",
+        11.255,
+        43.7533333333333
+    ],
+    [
+        "Swanson Observatory and Angele Observatory/Monte Sano",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -86.51395,
+        34.74949
+    ],
+    [
+        "Meyer-Womble Observatory Georgetown/Mt. Evans",
+        null,
+        4305,
+        "Modern Astronomical Observatory",
+        -105.64,
+        39.5866666666667
+    ],
+    [
+        "Hard Labor Creek Observatory Rutledge",
+        null,
+        223,
+        "Modern Astronomical Observatory",
+        -83.5933333333333,
+        33.67
+    ],
+    [
+        "Pie Town",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -108.119183,
+        34.301003
+    ],
+    [
+        "Syracuse University Observatory Syracuse",
+        null,
+        160,
+        "Modern Astronomical Observatory",
+        -76.1383333333333,
+        43.0366666666667
+    ],
+    [
+        "Pisgah Astronomical Rsch. Institute -PARI- Rosman",
+        null,
+        892,
+        "Modern Astronomical Observatory",
+        -82.8716666666667,
+        35.2
+    ],
+    [
+        "Rothney Astrophysical Observatory I Priddis, Alberta",
+        "Infrared",
+        1272,
+        "Modern Astronomical Observatory",
+        -114.288333333333,
+        50.8683333333333
+    ],
+    [
+        "Purple Mountain Observatory R Nanjing/Purple Mtn.",
+        "Radio",
+        267,
+        "Modern Astronomical Observatory",
+        118.821666666667,
+        32.0666666666667
+    ],
+    [
+        "Abastumani Astrophysical Observatory R Abastumani/Mt.  Kanobili",
+        "Radio",
+        1583,
+        "Modern Astronomical Observatory",
+        42.8216666666667,
+        41.755
+    ],
+    [
+        "Wilhelm Foerster Observatory Berlin",
+        null,
+        78,
+        "Modern Astronomical Observatory",
+        13.3533333333333,
+        52.4583333333333
+    ],
+    [
+        "Catholic University Astronomical Institute Nijmegen",
+        null,
+        62,
+        "Modern Astronomical Observatory",
+        5.86833333333333,
+        51.825
+    ],
+    [
+        "Bucharest Astronomical Observatory Bucharest",
+        null,
+        81,
+        "Modern Astronomical Observatory",
+        26.0966666666667,
+        44.4133333333333
+    ],
+    [
+        "Submillimeter Telescope Observatory R Safford/Mt. Graham",
+        "Radio",
+        3190,
+        "Modern Astronomical Observatory",
+        -109.891666666667,
+        32.701666666666696
+    ],
+    [
+        "Subaru Tel. Hilo/Mauna Kea, Hawaii",
+        null,
+        4163,
+        "Modern Astronomical Observatory",
+        -155.476666666667,
+        19.825
+    ],
+    [
+        "George R. Wallace Jr. Aph. Observatory Westford",
+        null,
+        107,
+        "Modern Astronomical Observatory",
+        -71.485,
+        42.61
+    ],
+    [
+        "Millstone Hill Radar Observatory R Westford",
+        "Radio",
+        156,
+        "Modern Astronomical Observatory",
+        -71.4916666666667,
+        42.6166666666667
+    ],
+    [
+        "Brooks Observatory Mount Pleasant",
+        null,
+        258,
+        "Modern Astronomical Observatory",
+        -84.775,
+        43.5883333333333
+    ],
+    [
+        "Shattuck Observatory Hanover",
+        null,
+        183,
+        "Modern Astronomical Observatory",
+        -72.2833333333333,
+        43.705
+    ],
+    [
+        "Ritter Observatory Toledo",
+        null,
+        201,
+        "Modern Astronomical Observatory",
+        -83.6133333333333,
+        41.6616666666667
+    ],
+    [
+        "Kutztown University Observatory Kutztown",
+        null,
+        158,
+        "Modern Astronomical Observatory",
+        -75.785,
+        40.515
+    ],
+    [
+        "India, Mathura Yantra Mandir / Temple of Instruments",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        77.675556,
+        27.494722
+    ],
+    [
+        "Alger Observatory Bouzaréa",
+        null,
+        345,
+        "Modern Astronomical Observatory",
+        3.035,
+        36.8016666666667
+    ],
+    [
+        "National Observatory of Cosmic Physics San Miguel",
+        null,
+        37,
+        "Modern Astronomical Observatory",
+        -58.7316666666667,
+        -34.5566666666667
+    ],
+    [
+        "Côte d'Azur Observatory Nice/Mont Gros",
+        null,
+        372,
+        "Modern Astronomical Observatory",
+        7.30166666666667,
+        43.7233333333333
+    ],
+    [
+        "Stephanion Observatory Stephanion",
+        null,
+        800,
+        "Modern Astronomical Observatory",
+        22.8283333333333,
+        37.755
+    ],
+    [
+        "Brera-Milan Astronomical Observatory Milan",
+        null,
+        146,
+        "Modern Astronomical Observatory",
+        9.19166666666667,
+        45.4666666666667
+    ],
+    [
+        "Tokyo Hydrographic Observatory Tokyo",
+        null,
+        41,
+        "Modern Astronomical Observatory",
+        139.77,
+        35.6616666666667
+    ],
+    [
+        "Dwingeloo Radio Observatory R Dwingeloo",
+        "Radio",
+        25,
+        "Modern Astronomical Observatory",
+        6.39666666666667,
+        52.8133333333333
+    ],
+    [
+        "Arecibo Observatory R Arecibo",
+        "Radio",
+        496,
+        "Modern Astronomical Observatory",
+        -66.7533333333333,
+        18.3433333333333
+    ],
+    [
+        "Lund Observatory Lund",
+        null,
+        34,
+        "Modern Astronomical Observatory",
+        13.1866666666667,
+        55.6983333333333
+    ],
+    [
+        "Mills Observatory Dundee, Scotland",
+        null,
+        152,
+        "Modern Astronomical Observatory",
+        -3.01166666666667,
+        56.465
+    ],
+    [
+        "Mount Lemmon Infrared Observatory I Tucson/Mt. Lemmon",
+        "Infrared",
+        2776,
+        "Modern Astronomical Observatory",
+        -110.791666666667,
+        32.4416666666667
+    ],
+    [
+        "Warner and Swasey Observatory Sta. Tucson/Kitt Peak",
+        null,
+        2084,
+        "Modern Astronomical Observatory",
+        -111.598333333333,
+        31.96
+    ],
+    [
+        "Celestial",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -93.136389,
+        35.295278
+    ],
+    [
+        "Harvard-Smithsonian Ctr. for Aph. R Cambridge",
+        "Radio",
+        24,
+        "Modern Astronomical Observatory",
+        -71.13,
+        42.38
+    ],
+    [
+        "Rogers",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -85.775556,
+        44.706667
+    ],
+    [
+        "Yerkes Observatory Williams Bay",
+        null,
+        334,
+        "Modern Astronomical Observatory",
+        -88.5566666666667,
+        42.57
+    ],
+    [
+        "China, Beijing Ancient",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        116.4286,
+        39.9062
+    ],
+    [
+        "Mexico, Uxmal",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -89.771,
+        20.3602
+    ],
+    [
+        "Córdoba Observatory Astrophys. Sta. Bosque Alegre",
+        null,
+        1250,
+        "Modern Astronomical Observatory",
+        -64.5466666666667,
+        -31.5983333333333
+    ],
+    [
+        "Dominion Astrophysical Observatory Victoria, British  Columbia",
+        null,
+        238,
+        "Modern Astronomical Observatory",
+        -123.416666666667,
+        48.52
+    ],
+    [
+        "National Observatory of Athens Athens",
+        null,
+        110,
+        "Modern Astronomical Observatory",
+        23.72,
+        37.9733333333333
+    ],
+    [
+        "Dodaira Observatory L Tokyo/Mt. Dodaira",
+        "Laser",
+        879,
+        "Modern Astronomical Observatory",
+        139.196666666667,
+        36.0033333333333
+    ],
+    [
+        "Kyoto University Physics Dept. Observatory Kyoto",
+        null,
+        80,
+        "Modern Astronomical Observatory",
+        135.786666666667,
+        35.0283333333333
+    ],
+    [
+        "Jagellonian University Astronomical Observatory Cracow",
+        null,
+        225,
+        "Modern Astronomical Observatory",
+        19.96,
+        50.065
+    ],
+    [
+        "Pulkovo Observatory R Pulkovo",
+        "Radio",
+        75,
+        "Modern Astronomical Observatory",
+        30.3266666666667,
+        59.7733333333333
+    ],
+    [
+        "MMT Observatory Amado/Mt. Hopkins",
+        null,
+        2608,
+        "Modern Astronomical Observatory",
+        -110.885,
+        31.6883333333333
+    ],
+    [
+        "Table Mountain Observatory Wrightwood",
+        null,
+        2285,
+        "Modern Astronomical Observatory",
+        -117.681666666667,
+        34.3816666666667
+    ],
+    [
+        "C.E.K. Mees Solar Observatory Kahului/Haleakala, Maui",
+        null,
+        3054,
+        "Modern Astronomical Observatory",
+        -156.256666666667,
+        20.7066666666667
+    ],
+    [
+        "Canada-France-Hawaii Tel. Corp. I Hilo/Mauna Kea,  Hawaii",
+        "Infrared",
+        4204,
+        "Modern Astronomical Observatory",
+        -155.468333333333,
+        19.825
+    ],
+    [
+        "Gemini North Observatory Hilo/Mauna Kea, Hawaii",
+        null,
+        4213,
+        "Modern Astronomical Observatory",
+        -155.468333333333,
+        19.8233333333333
+    ],
+    [
+        "New Mexico State University Observatory Sta. Las Cruces/Tortugas  Mtn.",
+        null,
+        1505,
+        "Modern Astronomical Observatory",
+        -106.696666666667,
+        32.2933333333333
+    ],
+    [
+        "McDonald Observatory L Fort Davis/Mt. Locke",
+        "Laser",
+        2075,
+        "Modern Astronomical Observatory",
+        -104.021666666667,
+        30.6716666666667
+    ],
+    [
+        "Dome C",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        123.333333,
+        -75.1
+    ],
+    [
+        "Cerro Tololo Inter-Amer. Observatory R I La Serena/Cerro  Tololo",
+        "Infrared Radio",
+        2215,
+        "Modern Astronomical Observatory",
+        -70.815,
+        -30.165
+    ],
+    [
+        "Yunnan Observatory R Kunming",
+        "Radio",
+        1940,
+        "Modern Astronomical Observatory",
+        102.788333333333,
+        25.025
+    ],
+    [
+        "Bordeaux University Observatory R Floirac",
+        "Radio",
+        73,
+        "Modern Astronomical Observatory",
+        -0.528333333333333,
+        44.835
+    ],
+    [
+        "Strasbourg Observatory Strasbourg",
+        null,
+        142,
+        "Modern Astronomical Observatory",
+        7.77,
+        48.5833333333333
+    ],
+    [
+        "Einstein Tower Solar Observatory R Potsdam",
+        "Radio",
+        100,
+        "Modern Astronomical Observatory",
+        13.065,
+        52.38
+    ],
+    [
+        "National Observatory Sta. R Pentele",
+        "Radio",
+        509,
+        "Modern Astronomical Observatory",
+        23.8633333333333,
+        38.0483333333333
+    ],
+    [
+        "Catania Observatory Stellar Sta. Catania/Serra la Nave",
+        null,
+        1735,
+        "Modern Astronomical Observatory",
+        14.9733333333333,
+        37.6916666666667
+    ],
+    [
+        "Ebro Observatory R Roquetas",
+        "Radio",
+        50,
+        "Modern Astronomical Observatory",
+        0.493333333333333,
+        40.82
+    ],
+    [
+        "Teide Observatory R I Tenerife Island (Canaries)",
+        "Infrared Radio",
+        2395,
+        "Modern Astronomical Observatory",
+        -16.4966666666667,
+        28.2916666666667
+    ],
+    [
+        "Lund Observatory Jävan Sta. Björnstorp",
+        null,
+        145,
+        "Modern Astronomical Observatory",
+        13.4333333333333,
+        55.6233333333333
+    ],
+    [
+        "University of Glasgow Observatory Glasgow, Scotland",
+        null,
+        53,
+        "Modern Astronomical Observatory",
+        -4.305,
+        55.9016666666667
+    ],
+    [
+        "Fred L. Whipple Observatory Amado/Mt. Hopkins",
+        null,
+        2344,
+        "Modern Astronomical Observatory",
+        -110.876666666667,
+        31.6816666666667
+    ],
+    [
+        "International Latitude Observatory Ukiah",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -123.211666666667,
+        39.1372222222222
+    ],
+    [
+        "Caltech Submillimeter Observatory R Hilo/Mauna Kea, Hawaii",
+        "Radio",
+        4072,
+        "Modern Astronomical Observatory",
+        -155.475,
+        19.8216666666667
+    ],
+    [
+        "Howell",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -88.817524,
+        33.468143
+    ],
+    [
+        "FitzRandolph Observatory Princeton",
+        null,
+        43,
+        "Modern Astronomical Observatory",
+        -74.6466666666667,
+        40.345
+    ],
+    [
+        "Ladd Observatory Providence",
+        null,
+        69,
+        "Modern Astronomical Observatory",
+        -71.4,
+        41.8383333333333
+    ],
+    [
+        "Arthur J. Dyer Observatory Nashville",
+        null,
+        345,
+        "Modern Astronomical Observatory",
+        -86.805,
+        36.0516666666667
+    ],
+    [
+        "Los Molinos Astronomical Observatory Montevideo",
+        null,
+        110,
+        "Modern Astronomical Observatory",
+        -56.19,
+        -34.755
+    ],
+    [
+        "Félix Aguilar Observatory San Juan",
+        null,
+        700,
+        "Modern Astronomical Observatory",
+        -68.62,
+        -31.51
+    ],
+    [
+        "University of Graz Observatory Graz",
+        null,
+        375,
+        "Modern Astronomical Observatory",
+        15.4516666666667,
+        47.0783333333333
+    ],
+    [
+        "National Observatory Rio de Janeiro",
+        null,
+        33,
+        "Modern Astronomical Observatory",
+        -43.2233333333333,
+        -22.895
+    ],
+    [
+        "Valongo Observatory Rio de Janeiro/Mt. Valongo",
+        null,
+        52,
+        "Modern Astronomical Observatory",
+        -43.1866666666667,
+        -22.8983333333333
+    ],
+    [
+        "Copenhagen University Observatory Brorfelde",
+        null,
+        90,
+        "Modern Astronomical Observatory",
+        11.6666666666667,
+        55.625
+    ],
+    [
+        "Pic du Midi Observatory Bagnères-de-Bigorre",
+        null,
+        2861,
+        "Modern Astronomical Observatory",
+        0.145,
+        42.9366666666667
+    ],
+    [
+        "Dunsink Observatory Castleknock",
+        null,
+        85,
+        "Modern Astronomical Observatory",
+        -6.33666666666667,
+        53.3883333333333
+    ],
+    [
+        "Asiago Astrophysical Observatory Asiago",
+        null,
+        1045,
+        "Modern Astronomical Observatory",
+        11.5283333333333,
+        45.8616666666667
+    ],
+    [
+        "Palermo University Astronomical Observatory Palermo",
+        null,
+        72,
+        "Modern Astronomical Observatory",
+        13.3583333333333,
+        38.1116666666667
+    ],
+    [
+        "Hida Observatory Kamitakara",
+        null,
+        1276,
+        "Modern Astronomical Observatory",
+        137.308333333333,
+        36.2483333333333
+    ],
+    [
+        "National Astronomical Observatory R Mitaka",
+        "Radio",
+        58,
+        "Modern Astronomical Observatory",
+        139.541666666667,
+        35.6716666666667
+    ],
+    [
+        "Simon Stevin Observatory R Hoeven",
+        "Radio",
+        9,
+        "Modern Astronomical Observatory",
+        4.56333333333333,
+        51.5666666666667
+    ],
+    [
+        "Skibotn Astronomical Observatory Skibotn",
+        null,
+        157,
+        "Modern Astronomical Observatory",
+        20.365,
+        69.3483333333333
+    ],
+    [
+        "Prof. Manuel de Barros Observatory R Vila Nova de Gaia",
+        "Radio",
+        232,
+        "Modern Astronomical Observatory",
+        -8.58833333333333,
+        41.1083333333333
+    ],
+    [
+        "Engelhardt Astronomical Observatory Kazan",
+        null,
+        98,
+        "Modern Astronomical Observatory",
+        48.815,
+        55.8383333333333
+    ],
+    [
+        "Leiden Observatory Southern Sta. Hartebeespoort",
+        null,
+        1220,
+        "Modern Astronomical Observatory",
+        27.8766666666667,
+        -25.7733333333333
+    ],
+    [
+        "University of Ankara Observatory R Ankara",
+        "Radio",
+        1266,
+        "Modern Astronomical Observatory",
+        32.78,
+        39.8433333333333
+    ],
+    [
+        "Nikolaev Astronomical Observatory Nikolaev",
+        null,
+        54,
+        "Modern Astronomical Observatory",
+        31.975,
+        46.9716666666667
+    ],
+    [
+        "Mullard Radio Astronomical Observatory R Cambridge, England",
+        "Radio",
+        17,
+        "Modern Astronomical Observatory",
+        0.043333333333333,
+        52.17
+    ],
+    [
+        "Radio Astronomical Institute R Stanford",
+        "Radio",
+        80,
+        "Modern Astronomical Observatory",
+        -122.188333333333,
+        37.3983333333333
+    ],
+    [
+        "Michigan State University Observatory East Lansing",
+        null,
+        274,
+        "Modern Astronomical Observatory",
+        -84.4833333333333,
+        42.7066666666667
+    ],
+    [
+        "Durham",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -70.9438,
+        43.1465
+    ],
+    [
+        "New Mexico State University Observatory Sta. Las Cruces/Blue Mesa",
+        null,
+        2025,
+        "Modern Astronomical Observatory",
+        -107.165,
+        32.4916666666667
+    ],
+    [
+        "Nassau Astronomical Observatory Montville",
+        null,
+        390,
+        "Modern Astronomical Observatory",
+        -81.075,
+        41.5916666666667
+    ],
+    [
+        "Mexico, Mayapan",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -89.1833,
+        20.4667
+    ],
+    [
+        "Peru, Machu Picchu",
+        null,
+        null,
+        "Ancient Astronomical Observatory",
+        -72.546072,
+        -13.162909
+    ],
+    [
+        "Climenhaga Observatory Victoria, British Columbia",
+        null,
+        74,
+        "Modern Astronomical Observatory",
+        -123.308333333333,
+        48.4633333333333
+    ],
+    [
+        "Dominion Radio Astrophys. Observatory R Penticton, British  Columbia",
+        "Radio",
+        545,
+        "Modern Astronomical Observatory",
+        -119.62,
+        49.32
+    ],
+    [
+        "Quito Astronomical Observatory Quito",
+        null,
+        2818,
+        "Modern Astronomical Observatory",
+        -78.4983333333333,
+        -0.216666666666667
+    ],
+    [
+        "University of Helsinki Observatory Helsinki",
+        null,
+        33,
+        "Modern Astronomical Observatory",
+        24.955,
+        60.1616666666667
+    ],
+    [
+        "Munich University Observatory Munich",
+        null,
+        529,
+        "Modern Astronomical Observatory",
+        11.6083333333333,
+        48.145
+    ],
+    [
+        "Swabian Observatory Stuttgart",
+        null,
+        354,
+        "Modern Astronomical Observatory",
+        9.19666666666667,
+        48.7833333333333
+    ],
+    [
+        "Vainu Bappu Observatory Kavalur",
+        null,
+        725,
+        "Modern Astronomical Observatory",
+        78.8266666666667,
+        12.5766666666667
+    ],
+    [
+        "Carter Observatory Sta. Blenheim/Black Birch",
+        null,
+        1396,
+        "Modern Astronomical Observatory",
+        173.803333333333,
+        -41.7483333333333
+    ],
+    [
+        "European Incoh. Scatter Facility R Tromsø",
+        "Radio",
+        85,
+        "Modern Astronomical Observatory",
+        19.52,
+        69.5866666666667
+    ],
+    [
+        "Cluj-Napoca Astronomical Observatory Cluj-Napoca",
+        null,
+        750,
+        "Modern Astronomical Observatory",
+        23.5983333333333,
+        46.7133333333333
+    ],
+    [
+        "Coats Observatory Paisley, Scotland",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -4.43115,
+        55.8455
+    ],
+    [
+        "Satellite Laser Ranger Group L Herstmonceux, England",
+        "Laser",
+        31,
+        "Modern Astronomical Observatory",
+        0.33833333333333304,
+        50.8666666666667
+    ],
+    [
+        "Goldstone Complex R Fort Irwin",
+        "Radio",
+        1036,
+        "Modern Astronomical Observatory",
+        -116.848333333333,
+        35.39
+    ],
+    [
+        "Five College Radio Astronomical Observatory R New Salem",
+        "Radio",
+        314,
+        "Modern Astronomical Observatory",
+        -72.345,
+        42.3916666666667
+    ],
+    [
+        "Sherzer",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -83.6246,
+        42.263892
+    ],
+    [
+        "Sperry",
+        null,
+        null,
+        "Modern Astronomical Observatory",
+        -74.323333,
+        40.666389
+    ],
+    [
+        "Hartung-Boothroyd Observatory Ithaca",
+        null,
+        534,
+        "Modern Astronomical Observatory",
+        -76.385,
+        42.4583333333333
+    ],
+    [
+        "Sproul Observatory Swarthmore",
+        null,
+        63,
+        "Modern Astronomical Observatory",
+        -75.3566666666667,
+        39.905
+    ],
+    [
+        "Leander McCormick Observatory Charlottesville",
+        null,
+        264,
+        "Modern Astronomical Observatory",
+        -78.5233333333333,
+        38.0333333333333
+    ]
+]
