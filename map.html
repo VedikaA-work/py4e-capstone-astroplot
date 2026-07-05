@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" type="text/css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+        <title>Map of Observatories</title>
+        <style>
+            body {
+                font-family: Verdana, Geneva, sans-serif;
+            }
+            .map {
+                height: 400px;
+                width: 100%;
+            }
+            .custom-map-pin {
+                background: none !important;
+                border: none !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+        </style>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="map_radio.js"></script>
+        <script src="map_laser.js"></script>
+        <script src="map_infrared.js"></script>
+        <script src="map_IR_radio.js"></script>
+        <script src="map_laser_radio.js"></script>
+        <script src="map_infrared_laser.js"></script>
+    </head>
+    <body>
+        <div id="map" class="map"></div>
+        <p><b>About the map</b></p>
+        <p>This is a capstone project for - Python for Everybody Course by Coursera.</p>
+        <p>
+            The above map shows <b><i>Observatories</i></b> around the globe.
+        </p>
+        <p>
+            It displays six types of Modern observatories (in various colours) along with some ancient observatories(in
+            yellow colour)
+        </p>
+        <p>
+            Dataset source used here is
+            <a
+                href="https://www.datastro.eu/explore/dataset/eso-astronomical-observatory-sites/table/?disjunctive.instruments&basemap=jawg.matrix&location=10,5.18828,78.09563"
+                target="_blank"
+                style="color: #0066cc; text-decoration: underline">
+                ESO Astronomical Observatory Sites Table
+            </a>
+        </p>
+        <script type="text/javascript">
+            // Step A: Initialize the map and set a global view
+            var map = L.map("map").setView([20.0, 0], 2);
+
+            // Step B: Load OpenStreetMap background tiles
+            L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+                maxZoom: 19,
+                attribution: "© OpenStreetMap contributors"
+            }).addTo(map);
+
+            // CENTRAL GENERATOR FUNCTION: Keeps your code short and builds perfect upright teardrops
+            function createTeardropMarker(lat, lon, title, subtitle, pinColor, innerIconClass, iconStyles) {
+                // Desired width and height in pixels
+                var width = 30;
+                var height = 40;
+                var anchorX = width * 0.5;
+                var anchorY = height * 1.0;
+
+                return L.marker([lat, lon], {
+                    icon: L.divIcon({
+                        html: `
+                            <div class="fa-stack" style="line-height: 1em; font-size: 20px; display: inline-block; width: 1em; height: 1em;">
+                            <i class="fa-solid fa-location-pin fa-stack-2x" style="color: ${pinColor}; postion: absolute; left:0; top:0; width: 100%; font-size: 1.6em; text-shadow: 0px 2px 4px rgba(0,0,0,0.3);"></i>
+                            <i class="${innerIconClass} fa-stack-1x" style="color: #ffffff; ${iconStyles}; font-size: 0.50em; postion: absolute; left:0; right:0; top:22%; margin: auto; text-align: center;"></i>
+                            </div>
+                        `,
+                        className: "custom-map-pin",
+                        iconSize: [width, height],
+                        iconAnchor: [anchorX, anchorY],
+                        popupAnchor: [0, -height]
+                    })
+                }).bindPopup("<b>" + title + "</b><br><br>" + subtitle);
+            }
+
+            // ==========================================
+            // BLOCK 1: RADIO OBSERVATORIES (Deep Blue Cosmic Pin + Upright Satellite Dish)
+            // ==========================================
+            var radioLayer = L.layerGroup();
+            if (typeof radioData !== "undefined") {
+                radioData.forEach(function (row) {
+                    var marker = createTeardropMarker(
+                        row[1],
+                        row[2],
+                        row[0],
+                        "Modern Radio Observatory",
+                        "#0A0E26",
+                        "fa-solid fa-tower-cell"
+                    );
+                    marker.addTo(radioLayer);
+                });
+            }
+            radioLayer.addTo(map);
+
+            // ==========================================
+            // BLOCK 2: LASER OBSERVATORIES (Crimson Red Pin + Lightning Bolt)
+            // ==========================================
+            var laserLayer = L.layerGroup();
+            if (typeof laserData !== "undefined") {
+                laserData.forEach(function (row) {
+                    var marker = createTeardropMarker(
+                        row[1],
+                        row[2],
+                        row[0],
+                        "Modern Laser Observatory",
+                        "#00FF00",
+                        "fa-solid fa-bolt-lightning"
+                    );
+                    marker.addTo(laserLayer);
+                });
+            }
+            laserLayer.addTo(map);
+
+            // ==========================================
+            // BLOCK 3: INFRARED OBSERVATORIES (Pink-Red Pin + Eye)
+            // ==========================================
+            var infraredLayer = L.layerGroup();
+            if (typeof infraredData !== "undefined") {
+                infraredData.forEach(function (row) {
+                    var marker = createTeardropMarker(
+                        row[1],
+                        row[2],
+                        row[0],
+                        "Modern Infrared Observatory",
+                        "#FF0055",
+                        "fa-solid fa-eye"
+                    );
+                    marker.addTo(infraredLayer);
+                });
+            }
+            infraredLayer.addTo(map);
+
+            // ==========================================
+            // BLOCK 4: IR RADIO HYBRID SITES (Purple Pin + Tower Cell)
+            // ==========================================
+            var irRadioLayer = L.layerGroup();
+            if (typeof IR_radioData !== "undefined") {
+                IR_radioData.forEach(function (row) {
+                    var marker = createTeardropMarker(
+                        row[1],
+                        row[2],
+                        row[0],
+                        "Modern IR Radio Observatory",
+                        "#7B00FF",
+                        "fa-solid fa-satellite-dish"
+                    );
+                    marker.addTo(irRadioLayer);
+                });
+            }
+            irRadioLayer.addTo(map);
+
+            // ==========================================
+            // BLOCK 5: LASER RADIO HYBRID SITES (Cyan Pin + Atom)
+            // ==========================================
+            var laserRadioLayer = L.layerGroup();
+            if (typeof laser_radioData !== "undefined") {
+                laser_radioData.forEach(function (row) {
+                    var marker = createTeardropMarker(
+                        row[1],
+                        row[2],
+                        row[0],
+                        "Modern Laser Radio Observatory",
+                        "#00E5FF",
+                        "fa-solid fa-atom"
+                    );
+                    marker.addTo(laserRadioLayer);
+                });
+            }
+            laserRadioLayer.addTo(map);
+
+            // ==========================================
+            // BLOCK 6: INFRARED LASER HYBRID SITES (Orange Pin + Dome)
+            // ==========================================
+            var irLaserLayer = L.layerGroup();
+            if (typeof IR_laserData !== "undefined") {
+                IR_laserData.forEach(function (row) {
+                    var marker = createTeardropMarker(
+                        row[1],
+                        row[2],
+                        row[0],
+                        "Modern Infrared Laser Observatory",
+                        "#FF9F00",
+                        "fa-solid fa-landmark-dome"
+                    );
+                    marker.addTo(irLaserLayer);
+                });
+            }
+            irLaserLayer.addTo(map);
+        </script>
+    </body>
+</html>
