@@ -48,12 +48,12 @@ As any data engineer knows, **clean data implies good results**. This project sh
 
 ## 🚀 How to Run the Pipeline
 
-Execute the data pipeline sequentially to process records from raw JSON structure to your localized map server:
+Execute the data pipeline sequentially to process records from raw JSON structure to your localized map server.
 
 1. 🧹 **Clean & Load Database:** Process the sanitized arrays, slice row data, and initialize the SQLite ledger.
-   ```bash
-   python script/load_modern.py
-2. 🔎:gear: **Filter & Dump Modern Assets:** Run keyword-restricted checks to generate the 6 distinct classified asset files.
+     ```bash
+     python script/load_modern.py
+3. 🔎 **Filter & Dump Modern Assets:** Run keyword-restricted checks to generate the 6 distinct classified asset files.
    ```bash
    python script/dump_modern.py
 3. 🌐 **Launch the Geolocation UI:** Launch the web frontend inside any standard internet browser.
