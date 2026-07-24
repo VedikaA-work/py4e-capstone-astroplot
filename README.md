@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="image.png" alt="AstroPlot Interactive Map Dashboard" width="100%">
+  <img src="map.png" alt="AstroPlot Interactive Map Dashboard" width="100%">
 </p>
 
 ## 📖 The Story & Data Pipeline
