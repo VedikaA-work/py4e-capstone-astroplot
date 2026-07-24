@@ -16,6 +16,16 @@
   <img src="map.png" alt="AstroPlot Interactive Map Dashboard" width="100%">
 </p>
 
+## 🌍 Try It Live
+
+The screenshot above is a preview of AstroPlot.
+
+**Zoom, pan, and click observatory markers to explore the dataset interactively.**
+
+👉 **[Explore AstroPlot Live 🚀](https://vedikaa-work.github.io/py4e-capstone-astroplot/map.html)**
+--------------------------------------------------------------------------------------------------
+
+
 ## 📖 The Story & Data Pipeline
 
 As any data engineer knows, **clean data implies good results**. This project showcases the complete end-to-end decoupling of a messy, multi-era raw telescope registry into a optimized, user-facing geospatial dashboard.
